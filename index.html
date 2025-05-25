@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" data-bs-theme="auto">
+<html lang="ja" data-bs-theme="auto">
   <head><script src="../assets/js/color-modes.js"></script>
 
     <meta charset="utf-8">
@@ -8,13 +8,25 @@
     <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
     <meta name="generator" content="Hugo 0.112.5">
     <title>QL1 JAPAN</title>
-
+    <link rel="stylesheet" href="style.css" />
     <link rel="canonical" href="https://getbootstrap.com/docs/5.3/examples/album/">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous"></script>
     <link href="../assets/dist/css/bootstrap.min.css" rel="stylesheet">
 
     <style>
+      .mainvisual {
+        background-image: url(img/IMG_7526.jpg);
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+      }
+
+      .mainvisualcontent {
+        background-color: rgba(0, 0, 0, .5);
+      }
+
       .bd-placeholder-img {
         font-size: 1.125rem;
         text-anchor: middle;
@@ -179,25 +191,26 @@
 
 <main>
 
-  <section class="py-5 text-center container">
-    <div class="row py-lg-5">
+  <section class="text-center container mainvisual">
+    <div class="row py-lg-5 mainvisualcontent">
       <div class="col-lg-6 col-md-8 mx-auto">
-        <h1 class="fw-light"><strong>Welcome to QL1 JAPAN</strong></h1>
-        <p class="lead text-body-secondary"><strong>Our first NFT Airdrop is coming on May 29th</strong></p>
-        <p class="lead text-body-secondary">Deadline: May 26th 9:00(JST)</p>
+        <h1 class="fw-light"><strong class="text-white">Welcome to QL1 JAPAN</strong></h1>
+        <p class="lead text-body-secondary"><strong class="text-white">Our first NFT Airdrop is coming on May 29th</strong></p>
+        <p class="lead text-body-secondary"><span class="text-white">May 26th 9:00(JST)</span></p>
         <p>
           <a href="https://forms.gle/M1DVomXqcPhEmi527" class="btn btn-danger my-2">Join the party</a>
         </p>
       </div>
     </div>
-    <div class="album py-5 bg-body-tertiary">
-    <div class="container">
-     <div class="row">
-        <div class="col">
-          <div class="card shadow-sm">
-            <img src="img/20250426_180624.GIF" alt="">
-            <div class="card-body">
-              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+    <div class="album py-5 bg-body-tertiary mainvisualcontent">
+      <div class="container">
+      <div class="row">
+          <div class="col">
+            <div class="card shadow-sm">
+              <img src="img/IMG_8544.jpg" alt="">
+              <div class="card-body">
+                <p class="card-text">To celebrate QL1's birthday, we’re airdropping original NFT art to the community! This NFT collection is a commemorative piece symbolizing the chain’s history and the community’s bond.</p>
+              </div>
             </div>
           </div>
         </div>
