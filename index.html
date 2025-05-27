@@ -8,12 +8,13 @@
     <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
     <meta name="generator" content="Hugo 0.112.5">
     <title>QL1 JAPAN</title>
+    <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />
     <link rel="stylesheet" href="style.css" />
     <link rel="canonical" href="https://getbootstrap.com/docs/5.3/examples/album/">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous"></script>
     <link href="../assets/dist/css/bootstrap.min.css" rel="stylesheet">
-
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
     <style>
       .mainvisual {
         background-image: url(img/IMG_7526.jpg);
@@ -25,6 +26,20 @@
 
       .mainvisualcontent {
         background-color: rgba(0, 0, 0, .5);
+      }
+
+      .swiper {
+        width: 100%;
+        max-width: 1200px;
+        padding: 20px 0;
+      }
+      .swiper-slide {
+        display: flex;
+        justify-content: center;
+      }
+      .swiper-slide .card {
+        width: 100%;
+        max-width: 350px;
       }
 
       .bd-placeholder-img {
@@ -195,11 +210,11 @@
     <div class="row py-lg-5 mainvisualcontent">
       <div class="col-lg-6 col-md-8 mx-auto">
         <h1 class="fw-light"><strong class="text-white">Welcome to QL1 JAPAN</strong></h1>
-        <p class="lead text-body-secondary"><strong class="text-white">Our first NFT Airdrop is coming on May 29th</strong></p>
-        <p class="lead text-body-secondary"><span class="text-white">May 26th 9:00(JST)</span></p>
-        <p>
-          <a href="https://forms.gle/M1DVomXqcPhEmi527" class="btn btn-danger my-2">Join the party</a>
-        </p>
+        <!-- <p class="lead text-body-secondary"><strong class="text-white">Our first NFT Airdrop is coming on May 29th</strong></p>
+        <p class="lead text-body-secondary"><span class="text-white">Deadline: May 26th 9:00(JST)</span></p> -->
+        <!-- <p>
+          <a href="https://forms.gle/M1DVomXqcPhEmi527" class="btn btn-danger my-5">Join the party</a>
+        </p> -->
       </div>
     </div>
     <div class="album py-5 bg-body-tertiary mainvisualcontent">
@@ -207,9 +222,9 @@
       <div class="row">
           <div class="col">
             <div class="card shadow-sm">
-              <img src="img/IMG_854.jpg" class="img-fluid" alt="Qoming Soon...">
+              <img src="img/IMG_8564.JPG" class="img-fluid" alt="Qoming Soon...">
               <div class="card-body">
-                <p class="card-text">To celebrate QL1's birthday, we’re airdropping original NFT art to the community! This NFT collection is a commemorative piece symbolizing the chain’s history and the community’s bond.</p>
+                <p class="card-text">To celebrate QL1’s birthday, we’re airdropping exclusive NFT art to the Qommunity! This commemorative collection captures the chain’s vibrant history and the unbreakable bond of our community. It’s a free airdrop, but to us, its value is truly priceless!</p>
               </div>
             </div>
           </div>
@@ -220,49 +235,46 @@
 
   <div class="album py-3 bg-body-tertiary">
     <div class="container">
-      <H3>Gallery</H3>
-      <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
-        <div class="col">
-          <div class="card shadow-sm">
-            <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"/><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg>
-            <div class="card-body">
-              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-            </div>
-          </div>
-        </div>
-        <div class="col">
-          <div class="card shadow-sm">
-            <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"/><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg>
-            <div class="card-body">
-              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-              <div class="d-flex justify-content-between align-items-center">
-                <div class="btn-group">
-                  <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                  <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
+        <div class="swiper mySwiper">
+            <div class="swiper-wrapper">
+                <!-- Card 1 -->
+                <div class="swiper-slide">
+                    <div class="card">
+                        <img src="img/IMG_8568.JPG" class="card-img-top" alt="Card image 1">
+                        <div class="card-body">
+                            <p class="card-text">これはカード1の説明文です。スライドで動くカードの例です。</p>
+                            <a href="#" class="btn btn-primary">詳細</a>
+                        </div>
+                    </div>
                 </div>
-                <small class="text-body-secondary">9 mins</small>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="col">
-          <div class="card shadow-sm">
-            <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"/><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg>
-            <div class="card-body">
-              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-              <div class="d-flex justify-content-between align-items-center">
-                <div class="btn-group">
-                  <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
+                <!-- Card 2 -->
+                <div class="swiper-slide">
+                    <div class="card">
+                        <img src="img/IMG_8566.JPG" class="card-img-top" alt="Card image 2">
+                        <div class="card-body">
+                            <p class="card-text">これはカード2の説明文です。スライドで動くカードの例です。</p>
+                            <a href="#" class="btn btn-primary">詳細</a>
+                        </div>
+                    </div>
                 </div>
-                <small class="text-body-secondary">9 mins</small>
-              </div>
+                <!-- Card 3 -->
+                <div class="swiper-slide">
+                    <div class="card">
+                        <img src="img/IMG_8565.JPG" class="card-img-top" alt="Card image 3">
+                        <div class="card-body">
+                            <p class="card-text">これはカード3の説明文です。スライドで動くカードの例です。</p>
+                            <a href="#" class="btn btn-primary">詳細</a>
+                        </div>
+                    </div>
+                </div>
             </div>
-          </div>
+            <!-- ナビゲーションボタン -->
+            <div class="swiper-button-next"></div>
+            <div class="swiper-button-prev"></div>
+            <!-- ページネーション -->
+            <div class="swiper-pagination"></div>
         </div>
-      </div>
     </div>
-  </div>
-
 </main>
 
 <footer class="text-body-secondary py-5">
@@ -274,7 +286,32 @@
   </div>
 </footer>
 <script src="../assets/dist/js/bootstrap.bundle.min.js"></script>
-
-    </body>
+<script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+    <script>
+        var swiper = new Swiper(".mySwiper", {
+            slidesPerView: 1,
+            spaceBetween: 30,
+            loop: true,
+            pagination: {
+                el: ".swiper-pagination",
+                clickable: true,
+            },
+            navigation: {
+                nextEl: ".swiper-button-next",
+                prevEl: ".swiper-button-prev",
+            },
+            breakpoints: {
+                768: {
+                    slidesPerView: 2,
+                    spaceBetween: 20,
+                },
+                1024: {
+                    slidesPerView: 3,
+                    spaceBetween: 30,
+                },
+            },
+        });
+    </script>
+  </body>
 </html>
 
