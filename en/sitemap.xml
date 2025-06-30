@@ -2,180 +2,182 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-06-23T18:11:29+00:00</lastmod>
+    <loc>http://lovefor.qom/posts/2025/06/2025-06-29-1185/</loc>
+    <lastmod>2025-06-29T19:47:38+00:00</lastmod>
+  </url><url>
+    <loc>http://lovefor.qom/</loc>
+    <lastmod>2025-06-29T19:47:38+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/"
+                href="http://lovefor.qom/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/"
+                href="http://lovefor.qom/"
                 />
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>http://lovefor.qom/posts/</loc>
+    <lastmod>2025-06-29T19:47:38+00:00</lastmod>
+  </url><url>
+    <loc>http://lovefor.qom/posts/2025/06/2025-06-29-1184/</loc>
+    <lastmod>2025-06-29T19:19:49+00:00</lastmod>
+  </url><url>
+    <loc>http://lovefor.qom/posts/2025/06/2025-06-29-1183/</loc>
+    <lastmod>2025-06-29T19:08:18+00:00</lastmod>
+  </url><url>
+    <loc>http://lovefor.qom/posts/2025/06/2025-06-25-1104/</loc>
+    <lastmod>2025-06-25T04:20:10+00:00</lastmod>
+  </url><url>
+    <loc>http://lovefor.qom/posts/2025/06/2025-06-23-1080/</loc>
     <lastmod>2025-06-23T18:11:29+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-06-23T18:11:29+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/tags/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/tags/tools/</loc>
-    <lastmod>2025-06-23T18:11:29+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/2025/06/you-can-use-obsidian/</loc>
-    <lastmod>2025-06-23T18:11:29+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/2025/06/once-we-understand-the-power-t/</loc>
+    <loc>http://lovefor.qom/posts/2025/06/2025-06-23-1078/</loc>
     <lastmod>2025-06-23T17:52:40+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/study/</loc>
-    <lastmod>2025-06-23T17:52:40+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/markdown/</loc>
+    <loc>http://lovefor.qom/posts/2025/06/2025-06-23-1077/</loc>
     <lastmod>2025-06-23T17:36:42+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2025/06/markdown-is-the-standard-forma/</loc>
-    <lastmod>2025-06-23T17:36:42+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/2025/06/study-this...../</loc>
+    <loc>http://lovefor.qom/posts/2025/06/2025-06-21-1050/</loc>
     <lastmod>2025-06-21T04:06:53+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2025/06/the-storm-is-coming.-trust-the/</loc>
+    <loc>http://lovefor.qom/posts/2025/06/2025-06-20-1037/</loc>
     <lastmod>2025-06-20T06:12:13+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2025/06/will-connecting-chains-help/</loc>
+    <loc>http://lovefor.qom/posts/2025/06/2025-06-19-991/</loc>
     <lastmod>2025-06-19T02:26:25+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2025/06/each-user-will-be-responsible/</loc>
+    <loc>http://lovefor.qom/posts/2025/06/2025-06-19-989/</loc>
     <lastmod>2025-06-19T01:50:23+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2025/06/ql1-nodes-but-also-bitcoin/</loc>
+    <loc>http://lovefor.qom/posts/2025/06/2025-06-19-988/</loc>
     <lastmod>2025-06-19T01:44:08+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2025/06/no-the-hardware-specification/</loc>
+    <loc>http://lovefor.qom/posts/2025/06/2025-06-19-987/</loc>
     <lastmod>2025-06-19T01:38:51+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2025/06/thats-right-babelfish-will-b/</loc>
+    <loc>http://lovefor.qom/posts/2025/06/2025-06-18-981/</loc>
     <lastmod>2025-06-18T23:27:53+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2025/06/well-eventually-implement-zer/</loc>
+    <loc>http://lovefor.qom/posts/2025/06/2025-06-18-972/</loc>
     <lastmod>2025-06-18T22:53:10+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2025/06/eventually-the-babelfish-code/</loc>
+    <loc>http://lovefor.qom/posts/2025/06/2025-06-16-928/</loc>
     <lastmod>2025-06-16T12:22:30+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2025/06/we-focus-on-giving-developers/</loc>
+    <loc>http://lovefor.qom/posts/2025/06/2025-06-11-707/</loc>
     <lastmod>2025-06-11T04:36:23+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2025/06/yes-it-will-have-its-own-vali/</loc>
+    <loc>http://lovefor.qom/posts/2025/06/2025-06-11-703/</loc>
     <lastmod>2025-06-11T04:14:22+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2025/06/dear-deep-thought-community-s/</loc>
+    <loc>http://lovefor.qom/posts/2025/06/2025-06-11-699/</loc>
     <lastmod>2025-06-11T04:04:39+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2025/06/there-will-be-public-libraries/</loc>
+    <loc>http://lovefor.qom/posts/2025/06/2025-06-11-695/</loc>
     <lastmod>2025-06-11T02:14:06+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2025/06/as-babelfish-development-progr/</loc>
+    <loc>http://lovefor.qom/posts/2025/06/2025-06-11-694/</loc>
     <lastmod>2025-06-11T02:06:43+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2025/06/a-little-context-my-name-is-q/</loc>
+    <loc>http://lovefor.qom/posts/2025/06/2025-06-10-662/</loc>
     <lastmod>2025-06-10T02:54:38+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2025/06/https/en.wikipedia.org/wiki/</loc>
+    <loc>http://lovefor.qom/posts/2025/06/2025-06-10-661/</loc>
     <lastmod>2025-06-10T02:51:56+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2025/06/think-of-babelfish-as-an-engin/</loc>
+    <loc>http://lovefor.qom/posts/2025/06/2025-06-05-587/</loc>
     <lastmod>2025-06-05T15:46:41+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2025/06/related-to-dns-yes.-the-goal/</loc>
+    <loc>http://lovefor.qom/posts/2025/06/2025-06-05-586/</loc>
     <lastmod>2025-06-05T15:43:17+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2025/06/it-seems-youve-found-a-key-po/</loc>
+    <loc>http://lovefor.qom/posts/2025/06/2025-06-04-581/</loc>
     <lastmod>2025-06-04T14:10:42+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2025/06/just-pc-at-this-momeent-mac-a/</loc>
+    <loc>http://lovefor.qom/posts/2025/06/2025-06-02-557/</loc>
     <lastmod>2025-06-02T14:40:25+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2025/05/and-regarding-the-issue-of-cen/</loc>
+    <loc>http://lovefor.qom/posts/2025/05/2025-05-29-538/</loc>
     <lastmod>2025-05-29T12:56:56+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2025/05/its-important-to-address-this/</loc>
+    <loc>http://lovefor.qom/posts/2025/05/2025-05-28-481/</loc>
     <lastmod>2025-05-28T18:25:48+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2025/05/my-friends-all-of-this-is-jus/</loc>
+    <loc>http://lovefor.qom/posts/2025/05/2025-05-28-461/</loc>
     <lastmod>2025-05-28T17:01:34+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2025/05/today-may-25-2025-on-towel/</loc>
+    <loc>http://lovefor.qom/posts/2025/05/2025-05-26-399/</loc>
     <lastmod>2025-05-26T03:03:42+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2025/05/leveraging-babelfish-protocol/</loc>
+    <loc>http://lovefor.qom/posts/2025/05/2025-05-25-377/</loc>
     <lastmod>2025-05-25T17:03:27+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2025/05/the-ip-can-be-fixed-to-any-a/</loc>
+    <loc>http://lovefor.qom/posts/2025/05/2025-05-25-284/</loc>
     <lastmod>2025-05-25T03:29:08+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2025/05/thats-right-by-owning-a-doma/</loc>
+    <loc>http://lovefor.qom/posts/2025/05/2025-05-24-243/</loc>
     <lastmod>2025-05-24T19:08:50+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2025/05/the-core-functionality-of-babe/</loc>
+    <loc>http://lovefor.qom/posts/2025/05/2025-05-24-239/</loc>
     <lastmod>2025-05-24T16:04:02+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2025/05/%E2%84%B9%EF%B8%8F-important-reminder-c/</loc>
+    <loc>http://lovefor.qom/posts/2025/05/2025-05-23-209/</loc>
     <lastmod>2025-05-23T22:09:48+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2025/05/you-might-want-to-click-the-s/</loc>
+    <loc>http://lovefor.qom/posts/2025/05/2025-05-23-185/</loc>
     <lastmod>2025-05-23T17:28:19+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2025/05/when-step-3-is-complete./</loc>
+    <loc>http://lovefor.qom/posts/2025/05/2025-05-23-164/</loc>
     <lastmod>2025-05-23T16:05:05+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/github/</loc>
+    <loc>http://lovefor.qom/posts/2025/05/2025-05-23-138/</loc>
     <lastmod>2025-05-23T01:34:02+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2025/05/leveraging-babelfish-protocol/</loc>
-    <lastmod>2025-05-23T01:34:02+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/2025/05/should-not-affect-really-the/</loc>
+    <loc>http://lovefor.qom/posts/2025/05/2025-05-22-131/</loc>
     <lastmod>2025-05-22T16:03:10+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2025/05/yes-one-of-the-goals-is-to-gi/</loc>
+    <loc>http://lovefor.qom/posts/2025/05/2025-05-20-90/</loc>
     <lastmod>2025-05-20T17:39:13+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2025/05/as-the-project-progresses-it/</loc>
+    <loc>http://lovefor.qom/posts/2025/05/2025-05-20-72/</loc>
     <lastmod>2025-05-20T16:19:23+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2025/05/yes-the-builder-who-wants-to/</loc>
+    <loc>http://lovefor.qom/posts/2025/05/2025-05-20-71/</loc>
     <lastmod>2025-05-20T16:13:46+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2025/05/regarding-the-minimum-number-of-nodes-for-a-test/</loc>
+    <loc>http://lovefor.qom/posts/2025/05/2025-05-20-70/</loc>
     <lastmod>2025-05-20T16:04:51+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>http://lovefor.qom/posts/2025/05/2025-05-19-30/</loc>
+    <lastmod>2025-05-19T19:01:48+00:00</lastmod>
+  </url><url>
+    <loc>http://lovefor.qom/about/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://lovefor.qom/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/categories/"
+                href="http://lovefor.qom/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/categories/"
+                href="http://lovefor.qom/categories/"
+                />
+  </url><url>
+    <loc>http://lovefor.qom/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://lovefor.qom/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://lovefor.qom/tags/"
                 />
   </url>
 </urlset>
