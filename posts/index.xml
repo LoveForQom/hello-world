@@ -1,0 +1,1030 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Hello Friend NG</title>
+        <link>http://localhost:1313/posts/</link>
+        <description>Recent content in Posts on Hello Friend NG</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <managingEditor>e@mail.qom (Jane Doe)</managingEditor>
+        <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+        <lastBuildDate>Mon, 23 Jun 2025 18:11:29 +0000</lastBuildDate>
+        <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>You can use Obsidian</title>
+            <link>http://localhost:1313/posts/2025/06/you-can-use-obsidian/</link>
+            <pubDate>Mon, 23 Jun 2025 18:11:29 +0000</pubDate>
+            <author>e@mail.qom (Jane Doe)</author>
+            <guid>http://localhost:1313/posts/2025/06/you-can-use-obsidian/</guid>
+            <description>&lt;p&gt;&lt;a href=&#34;https://obsidian.md/&#34;&gt;https://obsidian.md/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;You can use Obsidian to view and edit Markdown repositories&amp;hellip;
+for example, when editing a static site.&lt;/p&gt;
+&lt;p&gt;Or for your personal notes.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;teh_woman_in_red&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h3 id=&#34;related-articles&#34;&gt;Related articles&lt;/h3&gt;</description>
+            <content type="html"><![CDATA[<p><a href="https://obsidian.md/">https://obsidian.md/</a></p>
+<p>You can use Obsidian to view and edit Markdown repositories&hellip;
+for example, when editing a static site.</p>
+<p>Or for your personal notes.</p>
+<blockquote>
+<p>teh_woman_in_red</p></blockquote>
+<h3 id="related-articles">Related articles</h3>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Once we understand the power t</title>
+            <link>http://localhost:1313/posts/2025/06/once-we-understand-the-power-t/</link>
+            <pubDate>Mon, 23 Jun 2025 17:52:40 +0000</pubDate>
+            <author>e@mail.qom (Jane Doe)</author>
+            <guid>http://localhost:1313/posts/2025/06/once-we-understand-the-power-t/</guid>
+            <description>&lt;p&gt;Once we understand the power that the Markdown standard gives us, a door to a new world of possibilities will open before us.&lt;/p&gt;
+&lt;p&gt;The foundations of this new world are not new; they have been with us for decades, but what we do with it, my dear little birds, is what will change the world.&lt;/p&gt;
+&lt;p&gt;Study:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Zettelkasten, by Niklas Luhmann.&lt;/li&gt;
+&lt;li&gt;Personal Knowledge Management (PKM).&lt;/li&gt;
+&lt;li&gt;Second Brain.&lt;/li&gt;
+&lt;li&gt;Digital Gardens.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Once we master these concepts, we will add a P2P layer.&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<p>Once we understand the power that the Markdown standard gives us, a door to a new world of possibilities will open before us.</p>
+<p>The foundations of this new world are not new; they have been with us for decades, but what we do with it, my dear little birds, is what will change the world.</p>
+<p>Study:</p>
+<ul>
+<li>Zettelkasten, by Niklas Luhmann.</li>
+<li>Personal Knowledge Management (PKM).</li>
+<li>Second Brain.</li>
+<li>Digital Gardens.</li>
+</ul>
+<p>Once we master these concepts, we will add a P2P layer.</p>
+<blockquote>
+<p>QuanGaviota</p></blockquote>
+<h3 id="related-articles">Related articles</h3>
+<p>[[2025-06-23-1077]]</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Markdown is the standard forma</title>
+            <link>http://localhost:1313/posts/2025/06/markdown-is-the-standard-forma/</link>
+            <pubDate>Mon, 23 Jun 2025 17:36:42 +0000</pubDate>
+            <author>e@mail.qom (Jane Doe)</author>
+            <guid>http://localhost:1313/posts/2025/06/markdown-is-the-standard-forma/</guid>
+            <description>&lt;p&gt;Markdown is the standard format par excellence for managing notes.&lt;/p&gt;
+&lt;p&gt;Notes?
+Yes, notes, like the ones you use to remember your study notes or your reminders.&lt;/p&gt;
+&lt;p&gt;But Salvador, we&amp;rsquo;re here to learn how to develop cutting-edge tools&amp;hellip; why focus on simple notes???&lt;/p&gt;
+&lt;p&gt;The Markdown format allows you to store content and enrich it with simple tags. It doesn&amp;rsquo;t require compilers or sophisticated tools to edit or reproduce it. It&amp;rsquo;s like an HTML file, but with a much simpler syntax that is visually clear to the human eye. When it&amp;rsquo;s interpreted by a Markdown viewer, you can obtain the same results as with HTML, and you can also add JavaScript.&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<p>Markdown is the standard format par excellence for managing notes.</p>
+<p>Notes?
+Yes, notes, like the ones you use to remember your study notes or your reminders.</p>
+<p>But Salvador, we&rsquo;re here to learn how to develop cutting-edge tools&hellip; why focus on simple notes???</p>
+<p>The Markdown format allows you to store content and enrich it with simple tags. It doesn&rsquo;t require compilers or sophisticated tools to edit or reproduce it. It&rsquo;s like an HTML file, but with a much simpler syntax that is visually clear to the human eye. When it&rsquo;s interpreted by a Markdown viewer, you can obtain the same results as with HTML, and you can also add JavaScript.</p>
+<blockquote>
+<p>QuanGaviota</p></blockquote>
+<h3 id="related-articles">Related articles</h3>
+<p>[[2025-06-23-1078]]</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Study this.....</title>
+            <link>http://localhost:1313/posts/2025/06/study-this...../</link>
+            <pubDate>Sat, 21 Jun 2025 04:06:53 +0000</pubDate>
+            <author>e@mail.qom (Jane Doe)</author>
+            <guid>http://localhost:1313/posts/2025/06/study-this...../</guid>
+            <description>&lt;p&gt;Study this&amp;hellip;..&lt;/p&gt;
+&lt;p&gt;Introduction to Static Serverless Websites&lt;/p&gt;
+&lt;p&gt;Static serverless websites represent a modern trend in computing known as JAMstack (JavaScript, APIs, and Markup). This approach enables the creation of fast, secure, and scalable websites without the need to manage traditional servers.&lt;/p&gt;
+&lt;p&gt;Instead of relying on a server to generate dynamic content, static websites use pre-rendered files (HTML, CSS, and JavaScript) hosted on cloud services such as Netlify, Vercel, or GitHub Pages. These files are delivered to users via Content Delivery Networks (CDNs), simplifying infrastructure, reducing costs, and enhancing performance. The term JAMstack breaks down into:&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<p>Study this&hellip;..</p>
+<p>Introduction to Static Serverless Websites</p>
+<p>Static serverless websites represent a modern trend in computing known as JAMstack (JavaScript, APIs, and Markup). This approach enables the creation of fast, secure, and scalable websites without the need to manage traditional servers.</p>
+<p>Instead of relying on a server to generate dynamic content, static websites use pre-rendered files (HTML, CSS, and JavaScript) hosted on cloud services such as Netlify, Vercel, or GitHub Pages. These files are delivered to users via Content Delivery Networks (CDNs), simplifying infrastructure, reducing costs, and enhancing performance. The term JAMstack breaks down into:</p>
+<ul>
+<li>
+<p>JavaScript: Provides interactivity in the browser.</p>
+</li>
+<li>
+<p>APIs: Enables integration of dynamic functionalities, such as forms or search.</p>
+</li>
+<li>
+<p>Markup: Static HTML files, often generated from content in Markdown.</p>
+</li>
+</ul>
+<p>To deepen your understanding, I recommend exploring the following resources:</p>
+<ul>
+<li>
+<p>Markdown: A lightweight format for writing content that converts to HTML, ideal for static sites.</p>
+</li>
+<li>
+<p>Hugo: A fast static site generator that transforms content (such as Markdown) into complete websites, widely used in JAMstack projects.</p>
+</li>
+<li>
+<p>JAMstack: To understand the benefits and workings of serverless websites.</p>
+</li>
+</ul>
+<p>I suggest starting with these resources and experimenting with tools like Hugo or Netlify. If you need further guidance or wish to explore specific aspects, feel free to reach out.</p>
+<blockquote>
+<p>teh_woman_in_red</p></blockquote>
+<h3 id="related-articles">Related articles</h3>
+]]></content>
+        </item>
+        
+        <item>
+            <title>The Storm is Coming. Trust the</title>
+            <link>http://localhost:1313/posts/2025/06/the-storm-is-coming.-trust-the/</link>
+            <pubDate>Fri, 20 Jun 2025 06:12:13 +0000</pubDate>
+            <author>e@mail.qom (Jane Doe)</author>
+            <guid>http://localhost:1313/posts/2025/06/the-storm-is-coming.-trust-the/</guid>
+            <description>&lt;p&gt;The Storm is Coming. Trust the Plan.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;teh_woman_in_red&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h3 id=&#34;related-articles&#34;&gt;Related articles&lt;/h3&gt;</description>
+            <content type="html"><![CDATA[<p>The Storm is Coming. Trust the Plan.</p>
+<blockquote>
+<p>teh_woman_in_red</p></blockquote>
+<h3 id="related-articles">Related articles</h3>
+]]></content>
+        </item>
+        
+        <item>
+            <title>👀 Will connecting chains help</title>
+            <link>http://localhost:1313/posts/2025/06/will-connecting-chains-help/</link>
+            <pubDate>Thu, 19 Jun 2025 02:26:25 +0000</pubDate>
+            <author>e@mail.qom (Jane Doe)</author>
+            <guid>http://localhost:1313/posts/2025/06/will-connecting-chains-help/</guid>
+            <description>&lt;p&gt;👀 Will connecting chains help build bridges?&lt;/p&gt;
+&lt;p&gt;👉 Yes, it can help build bridges between chains, but the main use case is that builders and users can have direct read and write access to any of the blockchains in the network.&lt;/p&gt;
+&lt;p&gt;👀 Boundless is addressing this fragmentation in chains.&lt;/p&gt;
+&lt;p&gt;👉 Yes, but as we discussed previously, Boundless&amp;rsquo;s role is to provide zero-knowledge proof processing; it is a specific service for specific needs where high-confidence transaction verification is required.&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<p>👀 Will connecting chains help build bridges?</p>
+<p>👉 Yes, it can help build bridges between chains, but the main use case is that builders and users can have direct read and write access to any of the blockchains in the network.</p>
+<p>👀 Boundless is addressing this fragmentation in chains.</p>
+<p>👉 Yes, but as we discussed previously, Boundless&rsquo;s role is to provide zero-knowledge proof processing; it is a specific service for specific needs where high-confidence transaction verification is required.</p>
+<p>💡What I&rsquo;m trying to say is that there are multiple protocols, and they are all useful and necessary for a common goal, but they are not the same; each one does something specific.</p>
+<ul>
+<li>Like oracles, they are also necessary for building bridges, but their function is different.</li>
+</ul>
+<p>The difficult part for almost everyone to understand right now is that it&rsquo;s not entirely clear what each tool is for.</p>
+<p>🛠 In the construction of traditional bridges (the ones you use to cross a river), different tools, different materials, and different methods are used all together. Each architect decides what to use and how to use it. The mistake would be to believe that a bridge is made only of stones, and decide not to use hammers or wood on the bridge, because stones are all that&rsquo;s needed.</p>
+<p>That&rsquo;s how IT works; there are thousands of methods, languages, frameworks, services&hellip; I can&rsquo;t stop giving examples&hellip; and they&rsquo;re all necessary for an app to work.</p>
+<blockquote>
+<p>teh_woman_in_red</p></blockquote>
+<h3 id="related-articles">Related articles</h3>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Each user will be responsible</title>
+            <link>http://localhost:1313/posts/2025/06/each-user-will-be-responsible/</link>
+            <pubDate>Thu, 19 Jun 2025 01:50:23 +0000</pubDate>
+            <author>e@mail.qom (Jane Doe)</author>
+            <guid>http://localhost:1313/posts/2025/06/each-user-will-be-responsible/</guid>
+            <description>&lt;p&gt;Each user will be responsible for their own consumption.&lt;/p&gt;
+&lt;p&gt;But by being interconnected with everyone else through P2P, your node will also be supporting everyone else, and everyone else will be supporting you.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;teh_woman_in_red&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h3 id=&#34;related-articles&#34;&gt;Related articles&lt;/h3&gt;</description>
+            <content type="html"><![CDATA[<p>Each user will be responsible for their own consumption.</p>
+<p>But by being interconnected with everyone else through P2P, your node will also be supporting everyone else, and everyone else will be supporting you.</p>
+<blockquote>
+<p>teh_woman_in_red</p></blockquote>
+<h3 id="related-articles">Related articles</h3>
+]]></content>
+        </item>
+        
+        <item>
+            <title>👀 QL1 nodes, but also Bitcoin</title>
+            <link>http://localhost:1313/posts/2025/06/ql1-nodes-but-also-bitcoin/</link>
+            <pubDate>Thu, 19 Jun 2025 01:44:08 +0000</pubDate>
+            <author>e@mail.qom (Jane Doe)</author>
+            <guid>http://localhost:1313/posts/2025/06/ql1-nodes-but-also-bitcoin/</guid>
+            <description>&lt;p&gt;👀 QL1 nodes, but also Bitcoin or other chains?
+So BabelFish isn&amp;rsquo;t a QL1 Layer 2? Why other chains other than QL1?&lt;/p&gt;
+&lt;p&gt;👉 BabelFish will connect them all; creating a super mesh of chains.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;teh_woman_in_red&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h3 id=&#34;related-articles&#34;&gt;Related articles&lt;/h3&gt;
+&lt;p&gt;[[2025-06-11-699]]&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<p>👀 QL1 nodes, but also Bitcoin or other chains?
+So BabelFish isn&rsquo;t a QL1 Layer 2? Why other chains other than QL1?</p>
+<p>👉 BabelFish will connect them all; creating a super mesh of chains.</p>
+<blockquote>
+<p>teh_woman_in_red</p></blockquote>
+<h3 id="related-articles">Related articles</h3>
+<p>[[2025-06-11-699]]</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>No, the hardware specification</title>
+            <link>http://localhost:1313/posts/2025/06/no-the-hardware-specification/</link>
+            <pubDate>Thu, 19 Jun 2025 01:38:51 +0000</pubDate>
+            <author>e@mail.qom (Jane Doe)</author>
+            <guid>http://localhost:1313/posts/2025/06/no-the-hardware-specification/</guid>
+            <description>&lt;p&gt;No, the hardware specification requirements should be minimal, as close as possible to the average user&amp;rsquo;s computer.
+It&amp;rsquo;s practically like an installed plugin.&lt;/p&gt;
+&lt;p&gt;This refers to the Babel Virtual Machine&amp;hellip;&lt;/p&gt;
+&lt;p&gt;What will require additional processing is keeping nodes running. Remember that BabelFish will allow us to manage multiple nodes.&lt;/p&gt;
+&lt;p&gt;You can be running a QL1 node and also a Bitcoin node, and also a node for any other chain of your choice.
+And each will require its respective processing and storage space, but that will be the decision of each user.&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<p>No, the hardware specification requirements should be minimal, as close as possible to the average user&rsquo;s computer.
+It&rsquo;s practically like an installed plugin.</p>
+<p>This refers to the Babel Virtual Machine&hellip;</p>
+<p>What will require additional processing is keeping nodes running. Remember that BabelFish will allow us to manage multiple nodes.</p>
+<p>You can be running a QL1 node and also a Bitcoin node, and also a node for any other chain of your choice.
+And each will require its respective processing and storage space, but that will be the decision of each user.</p>
+<p>Each component the user wants to add will be completely customizable.</p>
+<p>Imagine Steam (the video game platform), you decide what to install on it.</p>
+<blockquote>
+<p>teh_woman_in_red</p></blockquote>
+<h3 id="related-articles">Related articles</h3>
+]]></content>
+        </item>
+        
+        <item>
+            <title>That&#39;s right, Babelfish will b</title>
+            <link>http://localhost:1313/posts/2025/06/thats-right-babelfish-will-b/</link>
+            <pubDate>Wed, 18 Jun 2025 23:27:53 +0000</pubDate>
+            <author>e@mail.qom (Jane Doe)</author>
+            <guid>http://localhost:1313/posts/2025/06/thats-right-babelfish-will-b/</guid>
+            <description>&lt;p&gt;That&amp;rsquo;s right, Babelfish will be an additional layer over QL1. The most critical and permanent data will be recorded on the QL1 mainnet, and computational operations (processes) can be executed on Babelfish like an operating system.&lt;/p&gt;
+&lt;p&gt;Something like a Layer 2, focused on computing.&lt;/p&gt;
+&lt;p&gt;Thus, QL1 will remain optimal and cost-effective, as it won&amp;rsquo;t have to manage additional computational processes.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;teh_woman_in_red&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h3 id=&#34;related-articles&#34;&gt;Related articles&lt;/h3&gt;
+&lt;p&gt;[[2025-06-19-988]]&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<p>That&rsquo;s right, Babelfish will be an additional layer over QL1. The most critical and permanent data will be recorded on the QL1 mainnet, and computational operations (processes) can be executed on Babelfish like an operating system.</p>
+<p>Something like a Layer 2, focused on computing.</p>
+<p>Thus, QL1 will remain optimal and cost-effective, as it won&rsquo;t have to manage additional computational processes.</p>
+<blockquote>
+<p>teh_woman_in_red</p></blockquote>
+<h3 id="related-articles">Related articles</h3>
+<p>[[2025-06-19-988]]</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>We&#39;ll eventually implement zer</title>
+            <link>http://localhost:1313/posts/2025/06/well-eventually-implement-zer/</link>
+            <pubDate>Wed, 18 Jun 2025 22:53:10 +0000</pubDate>
+            <author>e@mail.qom (Jane Doe)</author>
+            <guid>http://localhost:1313/posts/2025/06/well-eventually-implement-zer/</guid>
+            <description>&lt;p&gt;We&amp;rsquo;ll eventually implement zero-knowledge proofs in our developments, which is why it will be useful to manage our own boundless node. But we need to carefully study the issue of operating costs.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;teh_woman_in_red&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h3 id=&#34;related-articles&#34;&gt;Related articles&lt;/h3&gt;</description>
+            <content type="html"><![CDATA[<p>We&rsquo;ll eventually implement zero-knowledge proofs in our developments, which is why it will be useful to manage our own boundless node. But we need to carefully study the issue of operating costs.</p>
+<blockquote>
+<p>teh_woman_in_red</p></blockquote>
+<h3 id="related-articles">Related articles</h3>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Eventually, the Babelfish code</title>
+            <link>http://localhost:1313/posts/2025/06/eventually-the-babelfish-code/</link>
+            <pubDate>Mon, 16 Jun 2025 12:22:30 +0000</pubDate>
+            <author>e@mail.qom (Jane Doe)</author>
+            <guid>http://localhost:1313/posts/2025/06/eventually-the-babelfish-code/</guid>
+            <description>&lt;p&gt;Eventually, the Babelfish code will be published to become an open-source community project.&lt;/p&gt;
+&lt;p&gt;For now, it&amp;rsquo;s private for strategic reasons. Remember, there&amp;rsquo;s a risk that others will take Babelfish&amp;rsquo;s ideas and make them their own, like what happened with Vitalik a few weeks ago.
+That&amp;rsquo;s why we&amp;rsquo;ve decided to wait until the project is more mature to release the source code.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;teh_woman_in_red&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h3 id=&#34;related-articles&#34;&gt;Related articles&lt;/h3&gt;
+&lt;p&gt;[[2025-05-24-239]]&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<p>Eventually, the Babelfish code will be published to become an open-source community project.</p>
+<p>For now, it&rsquo;s private for strategic reasons. Remember, there&rsquo;s a risk that others will take Babelfish&rsquo;s ideas and make them their own, like what happened with Vitalik a few weeks ago.
+That&rsquo;s why we&rsquo;ve decided to wait until the project is more mature to release the source code.</p>
+<blockquote>
+<p>teh_woman_in_red</p></blockquote>
+<h3 id="related-articles">Related articles</h3>
+<p>[[2025-05-24-239]]</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>We focus on giving developers</title>
+            <link>http://localhost:1313/posts/2025/06/we-focus-on-giving-developers/</link>
+            <pubDate>Wed, 11 Jun 2025 04:36:23 +0000</pubDate>
+            <author>e@mail.qom (Jane Doe)</author>
+            <guid>http://localhost:1313/posts/2025/06/we-focus-on-giving-developers/</guid>
+            <description>&lt;p&gt;We focus on giving developers full control to develop any product their imagination and technical expertise allow.&lt;/p&gt;
+&lt;p&gt;We offer tools and guidance to beginners, but experienced developers can develop very quickly.&lt;/p&gt;
+&lt;p&gt;BabelFish itself is a distributed virtual machine that runs code and server functions.
+Think of Amazon Web Services, Microsoft Azure, Oracle&amp;hellip; The entire internet is built on them, and now we&amp;rsquo;re there, but powered by QL1 the first CTO blockchain ever created.&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<p>We focus on giving developers full control to develop any product their imagination and technical expertise allow.</p>
+<p>We offer tools and guidance to beginners, but experienced developers can develop very quickly.</p>
+<p>BabelFish itself is a distributed virtual machine that runs code and server functions.
+Think of Amazon Web Services, Microsoft Azure, Oracle&hellip; The entire internet is built on them, and now we&rsquo;re there, but powered by QL1 the first CTO blockchain ever created.</p>
+<blockquote>
+<p>teh_woman_in_red</p></blockquote>
+<h3 id="related-articles">Related articles</h3>
+<p>[[2025-06-11-694]]
+[[2025-05-24-239]]
+[[2025-06-11-699]]
+[[2025-06-05-587]]
+[[2025-06-16-928]]</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Yes, it will have its own vali</title>
+            <link>http://localhost:1313/posts/2025/06/yes-it-will-have-its-own-vali/</link>
+            <pubDate>Wed, 11 Jun 2025 04:14:22 +0000</pubDate>
+            <author>e@mail.qom (Jane Doe)</author>
+            <guid>http://localhost:1313/posts/2025/06/yes-it-will-have-its-own-vali/</guid>
+            <description>&lt;p&gt;Yes, it will have its own validators, but with different policies than QL1, as the network&amp;rsquo;s focus, purpose, and operations will be different.
+Details will be announced, but the system is designed so that everyone who contributes value to the network is rewarded accordingly.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;teh_woman_in_red&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h3 id=&#34;related-articles&#34;&gt;Related articles&lt;/h3&gt;</description>
+            <content type="html"><![CDATA[<p>Yes, it will have its own validators, but with different policies than QL1, as the network&rsquo;s focus, purpose, and operations will be different.
+Details will be announced, but the system is designed so that everyone who contributes value to the network is rewarded accordingly.</p>
+<blockquote>
+<p>teh_woman_in_red</p></blockquote>
+<h3 id="related-articles">Related articles</h3>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Dear Deep Thought Community, s</title>
+            <link>http://localhost:1313/posts/2025/06/dear-deep-thought-community-s/</link>
+            <pubDate>Wed, 11 Jun 2025 04:04:39 +0000</pubDate>
+            <author>e@mail.qom (Jane Doe)</author>
+            <guid>http://localhost:1313/posts/2025/06/dear-deep-thought-community-s/</guid>
+            <description>&lt;p&gt;Dear Deep Thought Community, soar with us, kindred spirits! 🕊&lt;/p&gt;
+&lt;p&gt;Across the vast sky of the digital realm, where free souls seek their truth, the BabelFish Protocol rises like a guiding star. We are a team dreaming of a world without digital chains, and you—weavers of code, testers of the breeze, and pioneers of this vision—are the wings of this revolution. Today, we share the map of our journey, a protocol that not only connects but sets us free. Come, fly with us into this new dawn.&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<p>Dear Deep Thought Community, soar with us, kindred spirits! 🕊</p>
+<p>Across the vast sky of the digital realm, where free souls seek their truth, the BabelFish Protocol rises like a guiding star. We are a team dreaming of a world without digital chains, and you—weavers of code, testers of the breeze, and pioneers of this vision—are the wings of this revolution. Today, we share the map of our journey, a protocol that not only connects but sets us free. Come, fly with us into this new dawn.</p>
+<p>Key Points of the BabelFish Protocol</p>
+<p>💾 1. Decentralized Name Resolution</p>
+<p>BabelFish manages its own domain name system, retrieving names and locations stored directly on the blockchain. This frees us from centralized systems like ICANN, giving us full control over the visibility and access of our digital resources.</p>
+<p>💾 2. Node Manager for Total Control</p>
+<p>With BabelFish, every user can set up and manage their own blockchain node. Having your own node puts the entire blockchain in your hands: no outages, no overloads, as you are its only user. This strengthens decentralization and empowers you.</p>
+<p>💾 3. Two Initial Chains: QL1 and BabelNet</p>
+<p>BabelFish will start by managing two chains:</p>
+<p>QL1: A Layer 1 foundation connecting directly to the QOM ecosystem, leveraging its vast scalability, quantum resistance, and efficiency.</p>
+<p>BabelNet: Our application layer, built on top of QL1, storing essential data on Layer 1 while optimizing storage, speed, processing, resources, and costs. It’s like giving a high-performance engine a turbo boost.</p>
+<p>💾 4. Distributed Data and Secure Storage</p>
+<p>We will handle resources and data of any size or type through a decentralized file system. Forget cloud storage—users control and protect their own data, always encrypted, ensuring privacy and independence.</p>
+<p>💾 5. Built-In Web Server</p>
+<p>BabelFish includes its own web server, capable of running any application. Paired with our own storage, name resolution, transactions, and blockchain access, it enables us to operate an independent network without relying on external infrastructure.</p>
+<p>💾 6. Flexible Contributions to the Ecosystem</p>
+<p>Each user decides how much computing power, storage, or bandwidth to share. Simply running a node strengthens the network. Those meeting validation requirements can become validators on QL1 (with its set rules) or BabelNet (details on its strategy coming soon). A validator is a synced, high-performing node with enough delegated tokens to join the network’s governance.</p>
+<p>💾 7. Rewards for Network Support</p>
+<p>Users who reserve storage space or help keep the network running will receive rewards through a value distribution system. Full details will be shared later, but your efforts to sustain the network will be recognized.</p>
+<p>💾 8. API and Developer Framework</p>
+<p>BabelFish is a developer framework with an API that allows access to data and operations across QL1, BabelNet, and the entire ecosystem through a simple interface, both graphical and programmatic. This makes building on our protocol intuitive and powerful.</p>
+<p>💾 9. Customizable Immersive Interfaces</p>
+<p>BabelFish brings the blockchain to everyone, not just as data on a website but through fully customizable user interfaces that create immersive experiences. Imagine navigating the blockchain like a file system or exploring virtual worlds in VR, tailored to your vision.</p>
+<p>💾 10. Web3 Application Suite</p>
+<p>BabelFish will offer a suite of applications with diverse functions, designed to let users enjoy a cutting-edge Web3 experience. From managing resources to engaging in interactive environments, these tools will be at your fingertips.</p>
+<p>Fellow travelers, the sky has no bounds! 🌅</p>
+<p>Deep Thought, you are the dreamers who will make BabelFish a song of freedom. Take these paths, explore them like new skies, and let your code weave the future. In our forums and chats, where voices meet, we await your insights, your questions, your truths. Keep flying high, for this cyberspace we build together knows no limits. Until we cross paths in the clouds, stay free! ✨</p>
+<blockquote>
+<p>QuanGaviota</p></blockquote>
+<h3 id="related-articles">Related articles</h3>
+<p>[[2025-06-11-694]]
+[[2025-06-11-707]]
+[[2025-05-25-377]]
+[[2025-05-23-138]]
+[[2025-05-20-70]]</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>There will be public libraries</title>
+            <link>http://localhost:1313/posts/2025/06/there-will-be-public-libraries/</link>
+            <pubDate>Wed, 11 Jun 2025 02:14:06 +0000</pubDate>
+            <author>e@mail.qom (Jane Doe)</author>
+            <guid>http://localhost:1313/posts/2025/06/there-will-be-public-libraries/</guid>
+            <description>&lt;p&gt;There will be public libraries to implement Babelfish services in your own projects.
+And community-powered documentation.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;QuanGaviota&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h3 id=&#34;related-articles&#34;&gt;Related articles&lt;/h3&gt;</description>
+            <content type="html"><![CDATA[<p>There will be public libraries to implement Babelfish services in your own projects.
+And community-powered documentation.</p>
+<blockquote>
+<p>QuanGaviota</p></blockquote>
+<h3 id="related-articles">Related articles</h3>
+]]></content>
+        </item>
+        
+        <item>
+            <title>As Babelfish development progr</title>
+            <link>http://localhost:1313/posts/2025/06/as-babelfish-development-progr/</link>
+            <pubDate>Wed, 11 Jun 2025 02:06:43 +0000</pubDate>
+            <author>e@mail.qom (Jane Doe)</author>
+            <guid>http://localhost:1313/posts/2025/06/as-babelfish-development-progr/</guid>
+            <description>&lt;p&gt;As Babelfish development progresses, so will you as developers.&lt;/p&gt;
+&lt;p&gt;Babelfish is many things. In addition to being a node manager, it&amp;rsquo;s also a virtual machine for executing operations on the blockchain, a suite of utility applications for users, and a development framework for builders.&lt;/p&gt;
+&lt;p&gt;And you, who witness the project&amp;rsquo;s evolution, will also be the masters of the system.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;QuanGaviota&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h3 id=&#34;related-articles&#34;&gt;Related articles&lt;/h3&gt;
+&lt;p&gt;[[2025-06-11-707]]
+[[2025-06-11-699]]
+[[2025-05-24-239]]&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<p>As Babelfish development progresses, so will you as developers.</p>
+<p>Babelfish is many things. In addition to being a node manager, it&rsquo;s also a virtual machine for executing operations on the blockchain, a suite of utility applications for users, and a development framework for builders.</p>
+<p>And you, who witness the project&rsquo;s evolution, will also be the masters of the system.</p>
+<blockquote>
+<p>QuanGaviota</p></blockquote>
+<h3 id="related-articles">Related articles</h3>
+<p>[[2025-06-11-707]]
+[[2025-06-11-699]]
+[[2025-05-24-239]]</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>A little context, my name is Q</title>
+            <link>http://localhost:1313/posts/2025/06/a-little-context-my-name-is-q/</link>
+            <pubDate>Tue, 10 Jun 2025 02:54:38 +0000</pubDate>
+            <author>e@mail.qom (Jane Doe)</author>
+            <guid>http://localhost:1313/posts/2025/06/a-little-context-my-name-is-q/</guid>
+            <description>&lt;p&gt;A little context, my name is Quan Salvador Gaviota, Livingston Seagull in English and in different ways in each language.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;QuanGaviota&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h3 id=&#34;related-articles&#34;&gt;Related articles&lt;/h3&gt;
+&lt;p&gt;[[2025-06-05-661]]&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<p>A little context, my name is Quan Salvador Gaviota, Livingston Seagull in English and in different ways in each language.</p>
+<blockquote>
+<p>QuanGaviota</p></blockquote>
+<h3 id="related-articles">Related articles</h3>
+<p>[[2025-06-05-661]]</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>https://en.wikipedia.org/wiki/</title>
+            <link>http://localhost:1313/posts/2025/06/https/en.wikipedia.org/wiki/</link>
+            <pubDate>Tue, 10 Jun 2025 02:51:56 +0000</pubDate>
+            <author>e@mail.qom (Jane Doe)</author>
+            <guid>http://localhost:1313/posts/2025/06/https/en.wikipedia.org/wiki/</guid>
+            <description>&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Jonathan_Livingston_Seagull&#34;&gt;https://en.wikipedia.org/wiki/Jonathan_Livingston_Seagull&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;QuanGaviota&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h3 id=&#34;related-articles&#34;&gt;Related articles&lt;/h3&gt;
+&lt;p&gt;[[2025-06-10-662]]&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<p><a href="https://en.wikipedia.org/wiki/Jonathan_Livingston_Seagull">https://en.wikipedia.org/wiki/Jonathan_Livingston_Seagull</a></p>
+<blockquote>
+<p>QuanGaviota</p></blockquote>
+<h3 id="related-articles">Related articles</h3>
+<p>[[2025-06-10-662]]</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Think of Babelfish as an engin</title>
+            <link>http://localhost:1313/posts/2025/06/think-of-babelfish-as-an-engin/</link>
+            <pubDate>Thu, 05 Jun 2025 15:46:41 +0000</pubDate>
+            <author>e@mail.qom (Jane Doe)</author>
+            <guid>http://localhost:1313/posts/2025/06/think-of-babelfish-as-an-engin/</guid>
+            <description>&lt;p&gt;Think of Babelfish as an engine. The software, by definition, is a general-purpose virtual machine, the Babel Virtual Machine.&lt;/p&gt;
+&lt;p&gt;Once the environment is set up and the main mechanisms are implemented, Babelfish will be a personal bridge between you (your devices) and the open sea of ​​the on-chain internet.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;teh_woman_in_red&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h3 id=&#34;related-articles&#34;&gt;Related articles&lt;/h3&gt;
+&lt;p&gt;[[2025-06-11-707]]
+[[2025-06-11-694]]&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<p>Think of Babelfish as an engine. The software, by definition, is a general-purpose virtual machine, the Babel Virtual Machine.</p>
+<p>Once the environment is set up and the main mechanisms are implemented, Babelfish will be a personal bridge between you (your devices) and the open sea of ​​the on-chain internet.</p>
+<blockquote>
+<p>teh_woman_in_red</p></blockquote>
+<h3 id="related-articles">Related articles</h3>
+<p>[[2025-06-11-707]]
+[[2025-06-11-694]]</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Related to DNS, yes. The goal</title>
+            <link>http://localhost:1313/posts/2025/06/related-to-dns-yes.-the-goal/</link>
+            <pubDate>Thu, 05 Jun 2025 15:43:17 +0000</pubDate>
+            <author>e@mail.qom (Jane Doe)</author>
+            <guid>http://localhost:1313/posts/2025/06/related-to-dns-yes.-the-goal/</guid>
+            <description>&lt;p&gt;Related to DNS, yes. The goal is to create a large, interconnected network of nodes that self-manage their own DNS resolution, not only to prevent attacks, but also to govern our own domain layer and, in turn, our own internet.&lt;/p&gt;
+&lt;p&gt;But that&amp;rsquo;s not the only goal of Babelfish; that&amp;rsquo;s just the DNS functionality.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;teh_woman_in_red&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h3 id=&#34;related-articles&#34;&gt;Related articles&lt;/h3&gt;
+&lt;p&gt;[[2025-05-20-90]]&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<p>Related to DNS, yes. The goal is to create a large, interconnected network of nodes that self-manage their own DNS resolution, not only to prevent attacks, but also to govern our own domain layer and, in turn, our own internet.</p>
+<p>But that&rsquo;s not the only goal of Babelfish; that&rsquo;s just the DNS functionality.</p>
+<blockquote>
+<p>teh_woman_in_red</p></blockquote>
+<h3 id="related-articles">Related articles</h3>
+<p>[[2025-05-20-90]]</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>It seems you&#39;ve found a key po</title>
+            <link>http://localhost:1313/posts/2025/06/it-seems-youve-found-a-key-po/</link>
+            <pubDate>Wed, 04 Jun 2025 14:10:42 +0000</pubDate>
+            <author>e@mail.qom (Jane Doe)</author>
+            <guid>http://localhost:1313/posts/2025/06/it-seems-youve-found-a-key-po/</guid>
+            <description>&lt;p&gt;It seems you&amp;rsquo;ve found a key point.&lt;/p&gt;
+&lt;p&gt;Indeed, Babelfish doesn&amp;rsquo;t yet implement IPv6, so it will only work when the communication channel is through IPv4.&lt;/p&gt;
+&lt;p&gt;Babelfish starts its local DNS server and assigns it a local IP address and configures the computer&amp;rsquo;s network interface to use its own DNS server.&lt;/p&gt;
+&lt;p&gt;If DNS requests are made to our server, everything works fine; but if the system or browsers have more options (access to other DNS servers), they will try to use the others, primarily prioritizing the fastest one, in this case, IPv6, regardless of whether the DNS server is correctly resolving the domain name or not.&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<p>It seems you&rsquo;ve found a key point.</p>
+<p>Indeed, Babelfish doesn&rsquo;t yet implement IPv6, so it will only work when the communication channel is through IPv4.</p>
+<p>Babelfish starts its local DNS server and assigns it a local IP address and configures the computer&rsquo;s network interface to use its own DNS server.</p>
+<p>If DNS requests are made to our server, everything works fine; but if the system or browsers have more options (access to other DNS servers), they will try to use the others, primarily prioritizing the fastest one, in this case, IPv6, regardless of whether the DNS server is correctly resolving the domain name or not.</p>
+<blockquote>
+<p>teh_woman_in_red</p></blockquote>
+<h3 id="related-articles">Related articles</h3>
+<p>[[2025-05-25-284]]
+[[2025-06-05-586]]</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>just pc at this momeent (mac a</title>
+            <link>http://localhost:1313/posts/2025/06/just-pc-at-this-momeent-mac-a/</link>
+            <pubDate>Mon, 02 Jun 2025 14:40:25 +0000</pubDate>
+            <author>e@mail.qom (Jane Doe)</author>
+            <guid>http://localhost:1313/posts/2025/06/just-pc-at-this-momeent-mac-a/</guid>
+            <description>&lt;p&gt;just pc at this momeent (mac and windows), but mobile version will be available soon, also the linux and linux-server version will be ready on next days.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;teh_woman_in_red&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h3 id=&#34;related-articles&#34;&gt;Related articles&lt;/h3&gt;</description>
+            <content type="html"><![CDATA[<p>just pc at this momeent (mac and windows), but mobile version will be available soon, also the linux and linux-server version will be ready on next days.</p>
+<blockquote>
+<p>teh_woman_in_red</p></blockquote>
+<h3 id="related-articles">Related articles</h3>
+]]></content>
+        </item>
+        
+        <item>
+            <title>And regarding the issue of cen</title>
+            <link>http://localhost:1313/posts/2025/05/and-regarding-the-issue-of-cen/</link>
+            <pubDate>Thu, 29 May 2025 12:56:56 +0000</pubDate>
+            <author>e@mail.qom (Jane Doe)</author>
+            <guid>http://localhost:1313/posts/2025/05/and-regarding-the-issue-of-cen/</guid>
+            <description>&lt;p&gt;And regarding the issue of censorship.&lt;/p&gt;
+&lt;p&gt;We are against any type of censorship. You are free to express, do, sell, or whatever you want on your site.&lt;/p&gt;
+&lt;p&gt;Remember, be good and don&amp;rsquo;t hurt others.&lt;/p&gt;
+&lt;p&gt;Individually, we don&amp;rsquo;t intend to censor; it goes against our values. But as an organized community, we are always looking for ways to make our ecosystem safe for everyone here.&lt;/p&gt;
+&lt;p&gt;But the scenario we want to avoid is truly extreme issues, something that truly puts the ecosystem or people at risk, not something as ambiguous as whether or not you sell things.&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<p>And regarding the issue of censorship.</p>
+<p>We are against any type of censorship. You are free to express, do, sell, or whatever you want on your site.</p>
+<p>Remember, be good and don&rsquo;t hurt others.</p>
+<p>Individually, we don&rsquo;t intend to censor; it goes against our values. But as an organized community, we are always looking for ways to make our ecosystem safe for everyone here.</p>
+<p>But the scenario we want to avoid is truly extreme issues, something that truly puts the ecosystem or people at risk, not something as ambiguous as whether or not you sell things.</p>
+<p>Build freely.</p>
+<p>Remember, the ecosystem and infrastructure of our protocol are still under construction. We are not yet hosting web content 100% in the chain. For now, only the domain name is decentralized, but hosting is still through third parties. So, keep this in mind when hosting your content.</p>
+<blockquote>
+<p>teh_woman_in_red</p></blockquote>
+<h3 id="related-articles">Related articles</h3>
+]]></content>
+        </item>
+        
+        <item>
+            <title>It’s important to address this</title>
+            <link>http://localhost:1313/posts/2025/05/its-important-to-address-this/</link>
+            <pubDate>Wed, 28 May 2025 18:25:48 +0000</pubDate>
+            <author>e@mail.qom (Jane Doe)</author>
+            <guid>http://localhost:1313/posts/2025/05/its-important-to-address-this/</guid>
+            <description>&lt;p&gt;It’s important to address this not only to you but to all members of the community:&lt;/p&gt;
+&lt;p&gt;As a development and research team, we focus on creating solutions and tools that improve people’s quality of life and uphold their right to browse and share freely.&lt;/p&gt;
+&lt;p&gt;Neither as individuals nor as a collective will we promote or support any activities that go against our community values.&lt;/p&gt;
+&lt;p&gt;Everyone is free to express themselves in their own corner of the internet—it’s their right.&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<p>It’s important to address this not only to you but to all members of the community:</p>
+<p>As a development and research team, we focus on creating solutions and tools that improve people’s quality of life and uphold their right to browse and share freely.</p>
+<p>Neither as individuals nor as a collective will we promote or support any activities that go against our community values.</p>
+<p>Everyone is free to express themselves in their own corner of the internet—it’s their right.</p>
+<p>However, if anything arises that threatens the safety or the healthy ecosystem we’ve built across our communities, it will be brought before the corresponding DAO tribunal. As an organized community, we will then seek the best path forward to address potential future risks.</p>
+<blockquote>
+<p>teh_woman_in_red</p></blockquote>
+<h3 id="related-articles">Related articles</h3>
+]]></content>
+        </item>
+        
+        <item>
+            <title>My friends, all of this is jus</title>
+            <link>http://localhost:1313/posts/2025/05/my-friends-all-of-this-is-jus/</link>
+            <pubDate>Wed, 28 May 2025 17:01:34 +0000</pubDate>
+            <author>e@mail.qom (Jane Doe)</author>
+            <guid>http://localhost:1313/posts/2025/05/my-friends-all-of-this-is-jus/</guid>
+            <description>&lt;p&gt;My friends, all of this is just in its infancy, and there are no tutorials or guides out there yet.&lt;/p&gt;
+&lt;p&gt;Here, as a community, it&amp;rsquo;s up to us to create these resources ourselves, and we all support each other with whatever knowledge we have so we can all grow.&lt;/p&gt;
+&lt;p&gt;At the moment, the devs are focusing on the protocol code, and the new members who are joining are starting to help us with testing from their computers.
+Some are writing guides; others are building their websites within our network.&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<p>My friends, all of this is just in its infancy, and there are no tutorials or guides out there yet.</p>
+<p>Here, as a community, it&rsquo;s up to us to create these resources ourselves, and we all support each other with whatever knowledge we have so we can all grow.</p>
+<p>At the moment, the devs are focusing on the protocol code, and the new members who are joining are starting to help us with testing from their computers.
+Some are writing guides; others are building their websites within our network.</p>
+<p>I invite you to ask and make suggestions. We are always willing to help, even though we may sometimes miss an answer, as we are busy with different activities.</p>
+<blockquote>
+<p>teh_woman_in_red</p></blockquote>
+<h3 id="related-articles">Related articles</h3>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Today, May 25, 2025, on Towel</title>
+            <link>http://localhost:1313/posts/2025/05/today-may-25-2025-on-towel/</link>
+            <pubDate>Mon, 26 May 2025 03:03:42 +0000</pubDate>
+            <author>e@mail.qom (Jane Doe)</author>
+            <guid>http://localhost:1313/posts/2025/05/today-may-25-2025-on-towel/</guid>
+            <description>&lt;p&gt;Today, May 25, 2025, on Towel Day, we celebrate the foundation of Deep Thought Computer!&lt;/p&gt;
+&lt;p&gt;The first blockchain-founded research and development lab, driven by cypherpunk ideals.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://x.com/DeepThought_Lab/status/1926836360930894185&#34;&gt;https://x.com/DeepThought_Lab/status/1926836360930894185&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;teh_woman_in_red&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h3 id=&#34;related-articles&#34;&gt;Related articles&lt;/h3&gt;</description>
+            <content type="html"><![CDATA[<p>Today, May 25, 2025, on Towel Day, we celebrate the foundation of Deep Thought Computer!</p>
+<p>The first blockchain-founded research and development lab, driven by cypherpunk ideals.</p>
+<p><a href="https://x.com/DeepThought_Lab/status/1926836360930894185">https://x.com/DeepThought_Lab/status/1926836360930894185</a></p>
+<blockquote>
+<p>teh_woman_in_red</p></blockquote>
+<h3 id="related-articles">Related articles</h3>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Leveraging BabelFish Protocol</title>
+            <link>http://localhost:1313/posts/2025/05/leveraging-babelfish-protocol/</link>
+            <pubDate>Sun, 25 May 2025 17:03:27 +0000</pubDate>
+            <author>e@mail.qom (Jane Doe)</author>
+            <guid>http://localhost:1313/posts/2025/05/leveraging-babelfish-protocol/</guid>
+            <description>&lt;p&gt;Leveraging BabelFish Protocol for Custom Domains&lt;/p&gt;
+&lt;p&gt;The BabelFish protocol allows you to connect custom domains to any location on the internet or blockchain.&lt;/p&gt;
+&lt;p&gt;The BabelFish dashboard offers tools for hosting and managing web content directly on the blockchain. However, it&amp;rsquo;s important to inform the community about the different hosting options available.&lt;/p&gt;
+&lt;p&gt;GitHub Pages is an excellent example of a free platform where you can host websites and easily connect them to a custom domain using the BabelFish protocol.&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<p>Leveraging BabelFish Protocol for Custom Domains</p>
+<p>The BabelFish protocol allows you to connect custom domains to any location on the internet or blockchain.</p>
+<p>The BabelFish dashboard offers tools for hosting and managing web content directly on the blockchain. However, it&rsquo;s important to inform the community about the different hosting options available.</p>
+<p>GitHub Pages is an excellent example of a free platform where you can host websites and easily connect them to a custom domain using the BabelFish protocol.</p>
+<p>Guide: <a href="https://github.com/deep-thought-computer/hello-world">https://github.com/deep-thought-computer/hello-world</a></p>
+<blockquote>
+<p>teh_woman_in_red</p></blockquote>
+<h3 id="related-articles">Related articles</h3>
+<p>[[2025-05-23-138]]
+[[2025-06-11-699]]
+[[2025-05-24-239]]</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>the IP can be fixed to any a</title>
+            <link>http://localhost:1313/posts/2025/05/the-ip-can-be-fixed-to-any-a/</link>
+            <pubDate>Sun, 25 May 2025 03:29:08 +0000</pubDate>
+            <author>e@mail.qom (Jane Doe)</author>
+            <guid>http://localhost:1313/posts/2025/05/the-ip-can-be-fixed-to-any-a/</guid>
+            <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;the IP can be fixed to any address you need.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;the DNS server will be handled be BabelFish. It will be fixed:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;When is &amp;lsquo;Connected&amp;rsquo;, the ip should be 127.3.6.9 (the qom numbers 😆), is the local DNS server inside BabelFish node.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;When is &amp;lsquo;Disconnected&amp;rsquo; is set 1.1.1.1, the public cloudflare DNS, in order to ensure user have regular dns resolution.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;teh_woman_in_red&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h3 id=&#34;related-articles&#34;&gt;Related articles&lt;/h3&gt;
+&lt;p&gt;[[2025-06-04-581]]
+[[2025-06-05-586]]&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<ul>
+<li>
+<p>the IP can be fixed to any address you need.</p>
+</li>
+<li>
+<p>the DNS server will be handled be BabelFish. It will be fixed:</p>
+<ul>
+<li>
+<p>When is &lsquo;Connected&rsquo;, the ip should be 127.3.6.9 (the qom numbers 😆), is the local DNS server inside BabelFish node.</p>
+</li>
+<li>
+<p>When is &lsquo;Disconnected&rsquo; is set 1.1.1.1, the public cloudflare DNS, in order to ensure user have regular dns resolution.</p>
+</li>
+</ul>
+</li>
+</ul>
+<blockquote>
+<p>teh_woman_in_red</p></blockquote>
+<h3 id="related-articles">Related articles</h3>
+<p>[[2025-06-04-581]]
+[[2025-06-05-586]]</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>That&#39;s right, by owning a doma</title>
+            <link>http://localhost:1313/posts/2025/05/thats-right-by-owning-a-doma/</link>
+            <pubDate>Sat, 24 May 2025 19:08:50 +0000</pubDate>
+            <author>e@mail.qom (Jane Doe)</author>
+            <guid>http://localhost:1313/posts/2025/05/thats-right-by-owning-a-doma/</guid>
+            <description>&lt;p&gt;That&amp;rsquo;s right, by owning a domain in the form of an NFT, anyone can develop products using their own domain names.&lt;/p&gt;
+&lt;p&gt;Of course, everyone must be careful about what data they make public, but the same applies to any project, whether it&amp;rsquo;s a legacy web project or a blockchain project.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;teh_woman_in_red&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h3 id=&#34;related-articles&#34;&gt;Related articles&lt;/h3&gt;</description>
+            <content type="html"><![CDATA[<p>That&rsquo;s right, by owning a domain in the form of an NFT, anyone can develop products using their own domain names.</p>
+<p>Of course, everyone must be careful about what data they make public, but the same applies to any project, whether it&rsquo;s a legacy web project or a blockchain project.</p>
+<blockquote>
+<p>teh_woman_in_red</p></blockquote>
+<h3 id="related-articles">Related articles</h3>
+]]></content>
+        </item>
+        
+        <item>
+            <title>The core functionality of Babe</title>
+            <link>http://localhost:1313/posts/2025/05/the-core-functionality-of-babe/</link>
+            <pubDate>Sat, 24 May 2025 16:04:02 +0000</pubDate>
+            <author>e@mail.qom (Jane Doe)</author>
+            <guid>http://localhost:1313/posts/2025/05/the-core-functionality-of-babe/</guid>
+            <description>&lt;p&gt;The core functionality of BabelFish is already up and running.&lt;/p&gt;
+&lt;p&gt;Now it&amp;rsquo;s up to each small developer to create their sites and invite others to join.&lt;/p&gt;
+&lt;p&gt;The BabelFish software will continue to be updated, and once the testing phase is complete, domains will be minted as NFTs and can be managed directly on the platform.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;teh_woman_in_red&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h3 id=&#34;related-articles&#34;&gt;Related articles&lt;/h3&gt;
+&lt;p&gt;[[2025-06-11-694]]
+[[2025-06-11-707]]
+[[2025-06-16-928]]&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<p>The core functionality of BabelFish is already up and running.</p>
+<p>Now it&rsquo;s up to each small developer to create their sites and invite others to join.</p>
+<p>The BabelFish software will continue to be updated, and once the testing phase is complete, domains will be minted as NFTs and can be managed directly on the platform.</p>
+<blockquote>
+<p>teh_woman_in_red</p></blockquote>
+<h3 id="related-articles">Related articles</h3>
+<p>[[2025-06-11-694]]
+[[2025-06-11-707]]
+[[2025-06-16-928]]</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>ℹ️ **Important reminder** (**c</title>
+            <link>http://localhost:1313/posts/2025/05/%E2%84%B9%EF%B8%8F-important-reminder-c/</link>
+            <pubDate>Fri, 23 May 2025 22:09:48 +0000</pubDate>
+            <author>e@mail.qom (Jane Doe)</author>
+            <guid>http://localhost:1313/posts/2025/05/%E2%84%B9%EF%B8%8F-important-reminder-c/</guid>
+            <description>&lt;p&gt;ℹ️ &lt;strong&gt;Important reminder&lt;/strong&gt; (&lt;strong&gt;connect&lt;/strong&gt; / &lt;strong&gt;disconnect&lt;/strong&gt;)&lt;strong&gt;:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Babelfish enables communication with a QL1 node through a local server on the user&amp;rsquo;s device, and for this it makes a couple of configurations in the system preferences.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;When starting the app, the server starts.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;When you activate the &amp;lsquo;Connect&amp;rsquo; button, the configurations are made in the network preferences.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;When you disconnect, network configurations are restored.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🛟 As we are in a test phase, we have added a block to close the app:&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<p>ℹ️ <strong>Important reminder</strong> (<strong>connect</strong> / <strong>disconnect</strong>)<strong>:</strong></p>
+<p>Babelfish enables communication with a QL1 node through a local server on the user&rsquo;s device, and for this it makes a couple of configurations in the system preferences.</p>
+<ul>
+<li>
+<p>When starting the app, the server starts.</p>
+</li>
+<li>
+<p>When you activate the &lsquo;Connect&rsquo; button, the configurations are made in the network preferences.</p>
+</li>
+<li>
+<p>When you disconnect, network configurations are restored.</p>
+</li>
+</ul>
+<p>🛟 As we are in a test phase, we have added a block to close the app:</p>
+<p>You can only close the app if you are already disconnected, so, the network preferences of your devices will return to normal when Babelfish is not running.</p>
+<p>⚠️ If you force the closure of the app (killing the process) or turn off your computer without disconnecting appropriate&hellip; The network preferences of your device will continue to point to the local Babelfish server, which is not in execution.
+<strong>As a result, you will not have Internet access</strong>.</p>
+<p>🛟 If that happens, you only needs to starts Babelfish and connect to the node to restore your connection.</p>
+<p><strong>Do not forget disconnect the node appropriate before closing your app.</strong></p>
+<p>⚙️ In Babelfish&rsquo;s next updates this behavior will be automatic.</p>
+<blockquote>
+<p>teh_woman_in_red</p></blockquote>
+<h3 id="related-articles">Related articles</h3>
+<p>[[2025-05-25-284]]
+[[2025-05-25-284]]
+[[2025-05-20-70]]</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>You might want to click the &#39;S</title>
+            <link>http://localhost:1313/posts/2025/05/you-might-want-to-click-the-s/</link>
+            <pubDate>Fri, 23 May 2025 17:28:19 +0000</pubDate>
+            <author>e@mail.qom (Jane Doe)</author>
+            <guid>http://localhost:1313/posts/2025/05/you-might-want-to-click-the-s/</guid>
+            <description>&lt;p&gt;You might want to click the &amp;lsquo;Sync&amp;rsquo; button on your dashboard, just in case the node hasn&amp;rsquo;t performed its automatic sync yet.&lt;/p&gt;
+&lt;p&gt;Every so often, the node checks for changes; usually, every 5 minutes. The Sync button is there to force the check, so you don&amp;rsquo;t have to wait for the automatic update to see any changes.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;teh_woman_in_red&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h3 id=&#34;related-articles&#34;&gt;Related articles&lt;/h3&gt;</description>
+            <content type="html"><![CDATA[<p>You might want to click the &lsquo;Sync&rsquo; button on your dashboard, just in case the node hasn&rsquo;t performed its automatic sync yet.</p>
+<p>Every so often, the node checks for changes; usually, every 5 minutes. The Sync button is there to force the check, so you don&rsquo;t have to wait for the automatic update to see any changes.</p>
+<blockquote>
+<p>teh_woman_in_red</p></blockquote>
+<h3 id="related-articles">Related articles</h3>
+]]></content>
+        </item>
+        
+        <item>
+            <title>When step 3 is complete.</title>
+            <link>http://localhost:1313/posts/2025/05/when-step-3-is-complete./</link>
+            <pubDate>Fri, 23 May 2025 16:05:05 +0000</pubDate>
+            <author>e@mail.qom (Jane Doe)</author>
+            <guid>http://localhost:1313/posts/2025/05/when-step-3-is-complete./</guid>
+            <description>&lt;p&gt;When step 3 is complete.&lt;/p&gt;
+&lt;p&gt;You need to provide me:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Domain name  .qom  you want to use&lt;/li&gt;
+&lt;li&gt;URL generated by Github Pages
+( your-user-name.github.io/hello-world )&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;teh_woman_in_red&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h3 id=&#34;related-articles&#34;&gt;Related articles&lt;/h3&gt;</description>
+            <content type="html"><![CDATA[<p>When step 3 is complete.</p>
+<p>You need to provide me:</p>
+<ul>
+<li>Domain name  .qom  you want to use</li>
+<li>URL generated by Github Pages
+( your-user-name.github.io/hello-world )</li>
+</ul>
+<blockquote>
+<p>teh_woman_in_red</p></blockquote>
+<h3 id="related-articles">Related articles</h3>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Leveraging BabelFish Protocol</title>
+            <link>http://localhost:1313/posts/2025/05/leveraging-babelfish-protocol/</link>
+            <pubDate>Fri, 23 May 2025 01:34:02 +0000</pubDate>
+            <author>e@mail.qom (Jane Doe)</author>
+            <guid>http://localhost:1313/posts/2025/05/leveraging-babelfish-protocol/</guid>
+            <description>&lt;p&gt;Leveraging BabelFish Protocol for Custom Domains&lt;/p&gt;
+&lt;p&gt;The BabelFish protocol allows you to connect custom domains to any location on the internet or blockchain.&lt;/p&gt;
+&lt;p&gt;The BabelFish dashboard offers tools for hosting and managing web content directly on the blockchain. However, it&amp;rsquo;s important to inform the community about the different hosting options available.&lt;/p&gt;
+&lt;p&gt;GitHub Pages is an excellent example of a free platform where you can host websites and easily connect them to a custom domain using the BabelFish protocol.&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<p>Leveraging BabelFish Protocol for Custom Domains</p>
+<p>The BabelFish protocol allows you to connect custom domains to any location on the internet or blockchain.</p>
+<p>The BabelFish dashboard offers tools for hosting and managing web content directly on the blockchain. However, it&rsquo;s important to inform the community about the different hosting options available.</p>
+<p>GitHub Pages is an excellent example of a free platform where you can host websites and easily connect them to a custom domain using the BabelFish protocol.</p>
+<p>Guide: <a href="https://github.com/deep-thought-computer/hello-world">https://github.com/deep-thought-computer/hello-world</a></p>
+<blockquote>
+<p>teh_woman_in_red</p></blockquote>
+<h3 id="related-articles">Related articles</h3>
+<p>[[2025-05-25-377]]
+[[2025-06-11-699]]
+[[2025-05-24-239]]</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Should not affect, really the</title>
+            <link>http://localhost:1313/posts/2025/05/should-not-affect-really-the/</link>
+            <pubDate>Thu, 22 May 2025 16:03:10 +0000</pubDate>
+            <author>e@mail.qom (Jane Doe)</author>
+            <guid>http://localhost:1313/posts/2025/05/should-not-affect-really-the/</guid>
+            <description>&lt;p&gt;Should not affect, really the expected is that BabelFish can works well without specific requirements on user device&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;teh_woman_in_red&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h3 id=&#34;related-articles&#34;&gt;Related articles&lt;/h3&gt;</description>
+            <content type="html"><![CDATA[<p>Should not affect, really the expected is that BabelFish can works well without specific requirements on user device</p>
+<blockquote>
+<p>teh_woman_in_red</p></blockquote>
+<h3 id="related-articles">Related articles</h3>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Yes, one of the goals is to gi</title>
+            <link>http://localhost:1313/posts/2025/05/yes-one-of-the-goals-is-to-gi/</link>
+            <pubDate>Tue, 20 May 2025 17:39:13 +0000</pubDate>
+            <author>e@mail.qom (Jane Doe)</author>
+            <guid>http://localhost:1313/posts/2025/05/yes-one-of-the-goals-is-to-gi/</guid>
+            <description>&lt;p&gt;Yes, one of the goals is to give users the ability to store part or all of their sites on different decentralized networks and protocols; as well as decide where they want that content to be accessible, whether on the common internet, only on the Babelfish network, or both.&lt;/p&gt;
+&lt;p&gt;And with the assurance that everything built and hosted on our protocol will be resistant to censorship or arbitrary disconnection.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;teh_woman_in_red&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<p>Yes, one of the goals is to give users the ability to store part or all of their sites on different decentralized networks and protocols; as well as decide where they want that content to be accessible, whether on the common internet, only on the Babelfish network, or both.</p>
+<p>And with the assurance that everything built and hosted on our protocol will be resistant to censorship or arbitrary disconnection.</p>
+<blockquote>
+<p>teh_woman_in_red</p></blockquote>
+<h3 id="related-articles">Related articles</h3>
+]]></content>
+        </item>
+        
+        <item>
+            <title>As the project progresses, it</title>
+            <link>http://localhost:1313/posts/2025/05/as-the-project-progresses-it/</link>
+            <pubDate>Tue, 20 May 2025 16:19:23 +0000</pubDate>
+            <author>e@mail.qom (Jane Doe)</author>
+            <guid>http://localhost:1313/posts/2025/05/as-the-project-progresses-it/</guid>
+            <description>&lt;p&gt;As the project progresses, it will be necessary to manage test environments for specific features. To achieve this, the installable Babelfish software must support multiple chains and direct peer-to-peer communication between nodes.&lt;/p&gt;
+&lt;p&gt;A minimum of two Babelfish nodes pointing to the same chain (mainet or testnet) will be able to interact.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;teh_woman_in_red&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h3 id=&#34;related-articles&#34;&gt;Related articles&lt;/h3&gt;
+&lt;p&gt;[[2025-05-20-70]]
+[[2025-06-11-694]]
+[[2025-05-24-239]]&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<p>As the project progresses, it will be necessary to manage test environments for specific features. To achieve this, the installable Babelfish software must support multiple chains and direct peer-to-peer communication between nodes.</p>
+<p>A minimum of two Babelfish nodes pointing to the same chain (mainet or testnet) will be able to interact.</p>
+<blockquote>
+<p>teh_woman_in_red</p></blockquote>
+<h3 id="related-articles">Related articles</h3>
+<p>[[2025-05-20-70]]
+[[2025-06-11-694]]
+[[2025-05-24-239]]</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Yes, the builder who wants to</title>
+            <link>http://localhost:1313/posts/2025/05/yes-the-builder-who-wants-to/</link>
+            <pubDate>Tue, 20 May 2025 16:13:46 +0000</pubDate>
+            <author>e@mail.qom (Jane Doe)</author>
+            <guid>http://localhost:1313/posts/2025/05/yes-the-builder-who-wants-to/</guid>
+            <description>&lt;p&gt;Yes, the builder who wants to implement a payment system just needs to connect his platform to a babelfish node, and through the babelfish API it will find the shortest path for that transaction, depending on whether the user has direct access to the network due to a local babelfish installation, or if the user does not have it, then the communication will be through the babelfish node on the builder&amp;rsquo;s server&amp;hellip;&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<p>Yes, the builder who wants to implement a payment system just needs to connect his platform to a babelfish node, and through the babelfish API it will find the shortest path for that transaction, depending on whether the user has direct access to the network due to a local babelfish installation, or if the user does not have it, then the communication will be through the babelfish node on the builder&rsquo;s server&hellip;</p>
+<p>So, babelfish first looks for access locally and cannot, it will try remotely.</p>
+<blockquote>
+<p>teh_woman_in_red</p></blockquote>
+<h3 id="related-articles">Related articles</h3>
+<p>[[2025-05-20-70]]
+[[2025-05-24-239]]</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Regarding the minimum number of nodes for a test</title>
+            <link>http://localhost:1313/posts/2025/05/regarding-the-minimum-number-of-nodes-for-a-test/</link>
+            <pubDate>Tue, 20 May 2025 16:04:51 +0000</pubDate>
+            <author>e@mail.qom (Jane Doe)</author>
+            <guid>http://localhost:1313/posts/2025/05/regarding-the-minimum-number-of-nodes-for-a-test/</guid>
+            <description>&lt;p&gt;Regarding the minimum number of nodes for a test environment.&lt;/p&gt;
+&lt;p&gt;That&amp;rsquo;s a good question, and it&amp;rsquo;s good to consider the cases in which a test environment would be necessary.&lt;/p&gt;
+&lt;p&gt;The main objective and flow of Babelfish at the user level is to provide the user with the ability to communicate directly with the blockchain from their device, avoiding the need to rely on a single point of failure, such as the remote server of the service that provides the data.&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<p>Regarding the minimum number of nodes for a test environment.</p>
+<p>That&rsquo;s a good question, and it&rsquo;s good to consider the cases in which a test environment would be necessary.</p>
+<p>The main objective and flow of Babelfish at the user level is to provide the user with the ability to communicate directly with the blockchain from their device, avoiding the need to rely on a single point of failure, such as the remote server of the service that provides the data.</p>
+<p>The key point here is &lsquo;communication.&rsquo; Communication between systems is what Babelfish will manage; I mean communication between the user&rsquo;s computer and the blockchain.</p>
+<p>The data within the blockchain is what we will read and interact with; that data corresponds to the current blockchain, which is the QL1 mainchain. Strictly speaking, it&rsquo;s not necessary for us to work on a testnet, as we won&rsquo;t be manipulating (initially) any aspects of the blockchain; that&rsquo;s already being worked on by the QL1 development team.</p>
+<p>Babelfish will manage local operations on the user&rsquo;s computer, essentially web routing, local network services, and local node management (installation, control, communication).</p>
+<p>Simply put, a single installation of Babelfish on a computer should be able to self-provision everything needed to view and interact with the blockchain.</p>
+<p>In the initial development and testing phase, it&rsquo;s not necessary to have more than one Babelfish node to see it in action, but if anyone else wants to enjoy Babelfish&rsquo;s features, they&rsquo;ll need to have Babelfish installed on their computer as well.</p>
+<p>The interesting thing is the possible configurations, just to mention a few:</p>
+<ul>
+<li>
+<p>With a single installation on a computer, the user can browse, consume resources from the chain, and host websites and web resources.</p>
+</li>
+<li>
+<p>With two or more nodes (different users with Babelfish), each user can consume and manage the same resources from the chain.</p>
+</li>
+<li>
+<p>A builder sets up a website or web app on the open internet and connects it to their own Babelfish installation to interact with the chain. Now all users of their platform will be consuming and interacting with the chain&rsquo;s resources through the platform.</p>
+</li>
+<li>
+<p>A user sets up a Babelfish installation on their server or local computer and opens it to the internet. Now users who don&rsquo;t have Babelfish installed on their devices can communicate with the Babelfish network through that access.</p>
+</li>
+</ul>
+<p>Essentially, owning a Babelfish node gives you access to the entire network, but you can also access the network in different ways and channels.</p>
+<blockquote>
+<p>teh_woman_in_red</p></blockquote>
+<h3 id="related-articles">Related articles</h3>
+<p>[[2025-05-20-72]]
+[[2025-06-11-699]]
+[[2025-06-11-694]]
+[[2025-06-19-988]]
+[[2025-06-19-987]]
+[[2025-06-18-981]]
+[[2025-06-11-707]]
+[[2025-05-20-71]]
+[[2025-05-23-209]]
+[[2025-06-19-991]]
+[[2025-05-24-239]]
+[[2025-05-20-90]]
+[[2025-05-25-377]]
+[[2025-05-23-138]]
+[[2025-05-28-461]]
+[[2025-05-25-284]]</p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>
