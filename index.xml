@@ -9,28 +9,21 @@
     <managingEditor>e@mail.qom (Jane Doe)</managingEditor>
     <webMaster>e@mail.qom (Jane Doe)</webMaster>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Sun, 29 Jun 2025 19:47:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Jun 2025 19:19:49 +0000</lastBuildDate>
     <atom:link href="http://lovefor.qom/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>2025-06-29-1185</title>
-      <link>http://lovefor.qom/posts/2025/06/2025-06-29-1185/</link>
-      <pubDate>Sun, 29 Jun 2025 19:47:38 +0000</pubDate><author>e@mail.qom (Jane Doe)</author>
-      <guid>http://lovefor.qom/posts/2025/06/2025-06-29-1185/</guid>
-      <description>&lt;p&gt;It’s spot-on! You’re right: cognitive warfare, supercharged by AI, aims to manipulate perceptions and curb critical thinking by overwhelming us with tailored information.&lt;/p&gt;&#xA;&lt;p&gt;We agree psychological warfare isn’t new —U.S. pop culture, like movies, has shaped narratives for decades, casting some as heroes and others as villains.&lt;/p&gt;&#xA;&lt;p&gt;Memes are a byproduct, subtly reinforcing ideas.&lt;/p&gt;&#xA;&lt;p&gt;As the document notes, AI amplifies this, exploiting biases and big data. Education and awareness are key to resisting.&lt;/p&gt;</description>
-    </item>
     <item>
       <title>2025-06-29-1184</title>
       <link>http://lovefor.qom/posts/2025/06/2025-06-29-1184/</link>
       <pubDate>Sun, 29 Jun 2025 19:19:49 +0000</pubDate><author>e@mail.qom (Jane Doe)</author>
       <guid>http://lovefor.qom/posts/2025/06/2025-06-29-1184/</guid>
-      <description>&lt;p&gt;Dear Community, Based on @Uberbarbi &amp;rsquo;s recent questions, we’ve identified the need to update our documentation to clearly outline the components of the Babel Fish project.&lt;/p&gt;&#xA;&lt;p&gt;We want to specify what’s currently in development, what’s in testing, and our long-term goals.&lt;/p&gt;&#xA;&lt;p&gt;For website creation, we need detailed posts, courses, or tutorials to guide users on how to build sites now (e.g., using static sites and GitHub) and how the migration to our P2P network will work in the future.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Dear Community, Based on recent questions, we’ve identified the need to update our documentation to clearly outline the components of the Babel Fish project.&lt;/p&gt;&#xA;&lt;p&gt;We want to specify what’s currently in development, what’s in testing, and our long-term goals.&lt;/p&gt;&#xA;&lt;p&gt;For website creation, we need detailed posts, courses, or tutorials to guide users on how to build sites now (e.g., using static sites and GitHub) and how the migration to our P2P network will work in the future.&lt;/p&gt;</description>
     </item>
     <item>
       <title>2025-06-29-1183</title>
       <link>http://lovefor.qom/posts/2025/06/2025-06-29-1183/</link>
       <pubDate>Sun, 29 Jun 2025 19:08:18 +0000</pubDate><author>e@mail.qom (Jane Doe)</author>
       <guid>http://lovefor.qom/posts/2025/06/2025-06-29-1183/</guid>
-      <description>&lt;p&gt;Hello, @Uberbarbi . Let me clarify your doubts:&lt;/p&gt;&#xA;&lt;p&gt;Our system is a P2P network where each node acts as a DNS server, resolving custom domains.&lt;/p&gt;&#xA;&lt;p&gt;Currently, websites are hosted on platforms like GitHub and linked to our network.&lt;/p&gt;&#xA;&lt;p&gt;You do need a computer to create your site now, but we’re working on an online tool for the future.&lt;/p&gt;&#xA;&lt;p&gt;And no, your computer doesn’t need to stay on; once your site is synced to the network, it’s permanent.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Hello. Let me clarify your doubts:&lt;/p&gt;&#xA;&lt;p&gt;Our system is a P2P network where each node acts as a DNS server, resolving custom domains.&lt;/p&gt;&#xA;&lt;p&gt;Currently, websites are hosted on platforms like GitHub and linked to our network.&lt;/p&gt;&#xA;&lt;p&gt;You do need a computer to create your site now, but we’re working on an online tool for the future.&lt;/p&gt;&#xA;&lt;p&gt;And no, your computer doesn’t need to stay on; once your site is synced to the network, it’s permanent.&lt;/p&gt;</description>
     </item>
     <item>
       <title>2025-06-25-1104</title>
@@ -44,7 +37,7 @@
       <link>http://lovefor.qom/posts/2025/06/2025-06-23-1080/</link>
       <pubDate>Mon, 23 Jun 2025 18:11:29 +0000</pubDate><author>e@mail.qom (Jane Doe)</author>
       <guid>http://lovefor.qom/posts/2025/06/2025-06-23-1080/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://obsidian.md/&#34;&gt;https://obsidian.md/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;You can use Obsidian to view and edit Markdown repositories&amp;hellip;&#xA;for example, when editing a static site.&lt;/p&gt;&#xA;&lt;p&gt;Or for your personal notes.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;teh_woman_in_red&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;h3 id=&#34;related-articles&#34;&gt;Related articles&lt;/h3&gt;</description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://obsidian.md/&#34;&gt;https://obsidian.md/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;You can use Obsidian to view and edit Markdown repositories&amp;hellip;&#xA;for example, when editing a static site.&lt;/p&gt;&#xA;&lt;p&gt;Or for your personal notes.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;teh_woman_in_red&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;h3 id=&#34;related-articles&#34;&gt;Related articles&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://lovefor.qom/posts/2025/06/2025-06-23-1077/&#34;&gt;2025-06-23-1077&lt;/a&gt;&#xA;&lt;a href=&#34;http://lovefor.qom/posts/2025/06/2025-06-23-1078/&#34;&gt;2025-06-23-1078&lt;/a&gt;&#xA;&lt;a href=&#34;http://lovefor.qom/posts/2025/06/2025-06-21-1050/&#34;&gt;2025-06-21-1050&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>2025-06-23-1078</title>
@@ -68,13 +61,6 @@
       <description>&lt;p&gt;Study this&amp;hellip;..&lt;/p&gt;&#xA;&lt;p&gt;Introduction to Static Serverless Websites&lt;/p&gt;&#xA;&lt;p&gt;Static serverless websites represent a modern trend in computing known as JAMstack (JavaScript, APIs, and Markup). This approach enables the creation of fast, secure, and scalable websites without the need to manage traditional servers.&lt;/p&gt;&#xA;&lt;p&gt;Instead of relying on a server to generate dynamic content, static websites use pre-rendered files (HTML, CSS, and JavaScript) hosted on cloud services such as Netlify, Vercel, or GitHub Pages. These files are delivered to users via Content Delivery Networks (CDNs), simplifying infrastructure, reducing costs, and enhancing performance. The term JAMstack breaks down into:&lt;/p&gt;</description>
     </item>
     <item>
-      <title>2025-06-20-1037</title>
-      <link>http://lovefor.qom/posts/2025/06/2025-06-20-1037/</link>
-      <pubDate>Fri, 20 Jun 2025 06:12:13 +0000</pubDate><author>e@mail.qom (Jane Doe)</author>
-      <guid>http://lovefor.qom/posts/2025/06/2025-06-20-1037/</guid>
-      <description>&lt;p&gt;The Storm is Coming. Trust the Plan.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;teh_woman_in_red&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;h3 id=&#34;related-articles&#34;&gt;Related articles&lt;/h3&gt;</description>
-    </item>
-    <item>
       <title>2025-06-19-991</title>
       <link>http://lovefor.qom/posts/2025/06/2025-06-19-991/</link>
       <pubDate>Thu, 19 Jun 2025 02:26:25 +0000</pubDate><author>e@mail.qom (Jane Doe)</author>
@@ -93,7 +79,7 @@
       <link>http://lovefor.qom/posts/2025/06/2025-06-19-988/</link>
       <pubDate>Thu, 19 Jun 2025 01:44:08 +0000</pubDate><author>e@mail.qom (Jane Doe)</author>
       <guid>http://lovefor.qom/posts/2025/06/2025-06-19-988/</guid>
-      <description>&lt;p&gt;👀 QL1 nodes, but also Bitcoin or other chains?&#xA;So BabelFish isn&amp;rsquo;t a QL1 Layer 2? Why other chains other than QL1?&lt;/p&gt;&#xA;&lt;p&gt;👉 BabelFish will connect them all; creating a super mesh of chains.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;teh_woman_in_red&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;h3 id=&#34;related-articles&#34;&gt;Related articles&lt;/h3&gt;</description>
+      <description>&lt;p&gt;👀 QL1 nodes, but also Bitcoin or other chains?&#xA;So BabelFish isn&amp;rsquo;t a QL1 Layer 2? Why other chains other than QL1?&lt;/p&gt;&#xA;&lt;p&gt;👉 BabelFish will connect them all; creating a super mesh of chains.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;teh_woman_in_red&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;h3 id=&#34;related-articles&#34;&gt;Related articles&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://lovefor.qom/posts/2025/06/2025-06-11-699/&#34;&gt;2025-06-11-699&lt;/a&gt;&#xA;&lt;a href=&#34;http://lovefor.qom/posts/2025/06/2025-06-18-981/&#34;&gt;2025-06-18-981&lt;/a&gt;&#xA;&lt;a href=&#34;http://lovefor.qom/posts/2025/05/2025-05-19-30/&#34;&gt;2025-05-19-30&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>2025-06-19-987</title>
@@ -107,7 +93,7 @@
       <link>http://lovefor.qom/posts/2025/06/2025-06-18-981/</link>
       <pubDate>Wed, 18 Jun 2025 23:27:53 +0000</pubDate><author>e@mail.qom (Jane Doe)</author>
       <guid>http://lovefor.qom/posts/2025/06/2025-06-18-981/</guid>
-      <description>&lt;p&gt;That&amp;rsquo;s right, Babelfish will be an additional layer over QL1. The most critical and permanent data will be recorded on the QL1 mainnet, and computational operations (processes) can be executed on Babelfish like an operating system.&lt;/p&gt;&#xA;&lt;p&gt;Something like a Layer 2, focused on computing.&lt;/p&gt;&#xA;&lt;p&gt;Thus, QL1 will remain optimal and cost-effective, as it won&amp;rsquo;t have to manage additional computational processes.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;teh_woman_in_red&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;h3 id=&#34;related-articles&#34;&gt;Related articles&lt;/h3&gt;</description>
+      <description>&lt;p&gt;That&amp;rsquo;s right, Babelfish will be an additional layer over QL1. The most critical and permanent data will be recorded on the QL1 mainnet, and computational operations (processes) can be executed on Babelfish like an operating system.&lt;/p&gt;&#xA;&lt;p&gt;Something like a Layer 2, focused on computing.&lt;/p&gt;&#xA;&lt;p&gt;Thus, QL1 will remain optimal and cost-effective, as it won&amp;rsquo;t have to manage additional computational processes.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;teh_woman_in_red&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;h3 id=&#34;related-articles&#34;&gt;Related articles&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://lovefor.qom/posts/2025/06/2025-06-19-988/&#34;&gt;2025-06-19-988&lt;/a&gt;&#xA;&lt;a href=&#34;http://lovefor.qom/posts/2025/06/2025-06-19-987/&#34;&gt;2025-06-19-987&lt;/a&gt;&#xA;&lt;a href=&#34;http://lovefor.qom/posts/2025/06/2025-06-11-707/&#34;&gt;2025-06-11-707&lt;/a&gt;&#xA;&lt;a href=&#34;http://lovefor.qom/posts/2025/06/2025-06-05-587/&#34;&gt;2025-06-05-587&lt;/a&gt;&#xA;&lt;a href=&#34;http://lovefor.qom/posts/2025/06/2025-06-11-699/&#34;&gt;2025-06-11-699&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>2025-06-18-972</title>
@@ -121,7 +107,7 @@
       <link>http://lovefor.qom/posts/2025/06/2025-06-16-928/</link>
       <pubDate>Mon, 16 Jun 2025 12:22:30 +0000</pubDate><author>e@mail.qom (Jane Doe)</author>
       <guid>http://lovefor.qom/posts/2025/06/2025-06-16-928/</guid>
-      <description>&lt;p&gt;Eventually, the Babelfish code will be published to become an open-source community project.&lt;/p&gt;&#xA;&lt;p&gt;For now, it&amp;rsquo;s private for strategic reasons. Remember, there&amp;rsquo;s a risk that others will take Babelfish&amp;rsquo;s ideas and make them their own, like what happened with Vitalik a few weeks ago.&#xA;That&amp;rsquo;s why we&amp;rsquo;ve decided to wait until the project is more mature to release the source code.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;teh_woman_in_red&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;h3 id=&#34;related-articles&#34;&gt;Related articles&lt;/h3&gt;</description>
+      <description>&lt;p&gt;Eventually, the Babelfish code will be published to become an open-source community project.&lt;/p&gt;&#xA;&lt;p&gt;For now, it&amp;rsquo;s private for strategic reasons. Remember, there&amp;rsquo;s a risk that others will take Babelfish&amp;rsquo;s ideas and make them their own, like what happened with Vitalik a few weeks ago.&#xA;That&amp;rsquo;s why we&amp;rsquo;ve decided to wait until the project is more mature to release the source code.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;teh_woman_in_red&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;h3 id=&#34;related-articles&#34;&gt;Related articles&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://lovefor.qom/posts/2025/05/2025-05-24-239/&#34;&gt;2025-05-24-239&lt;/a&gt;&#xA;&lt;a href=&#34;http://lovefor.qom/posts/2025/06/2025-06-29-1184/&#34;&gt;2025-06-29-1184&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>2025-06-11-707</title>
@@ -149,14 +135,14 @@
       <link>http://lovefor.qom/posts/2025/06/2025-06-11-695/</link>
       <pubDate>Wed, 11 Jun 2025 02:14:06 +0000</pubDate><author>e@mail.qom (Jane Doe)</author>
       <guid>http://lovefor.qom/posts/2025/06/2025-06-11-695/</guid>
-      <description>&lt;p&gt;There will be public libraries to implement Babelfish services in your own projects.&#xA;And community-powered documentation.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;QuanGaviota&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;h3 id=&#34;related-articles&#34;&gt;Related articles&lt;/h3&gt;</description>
+      <description>&lt;p&gt;There will be public libraries to implement Babelfish services in your own projects.&#xA;And community-powered documentation.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;QuanGaviota&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;h3 id=&#34;related-articles&#34;&gt;Related articles&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://lovefor.qom/posts/2025/06/2025-06-29-1184/&#34;&gt;2025-06-29-1184&lt;/a&gt;&#xA;&lt;a href=&#34;http://lovefor.qom/posts/2025/06/2025-06-16-928/&#34;&gt;2025-06-16-928&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>2025-06-11-694</title>
       <link>http://lovefor.qom/posts/2025/06/2025-06-11-694/</link>
       <pubDate>Wed, 11 Jun 2025 02:06:43 +0000</pubDate><author>e@mail.qom (Jane Doe)</author>
       <guid>http://lovefor.qom/posts/2025/06/2025-06-11-694/</guid>
-      <description>&lt;p&gt;As Babelfish development progresses, so will you as developers.&lt;/p&gt;&#xA;&lt;p&gt;Babelfish is many things. In addition to being a node manager, it&amp;rsquo;s also a virtual machine for executing operations on the blockchain, a suite of utility applications for users, and a development framework for builders.&lt;/p&gt;&#xA;&lt;p&gt;And you, who witness the project&amp;rsquo;s evolution, will also be the masters of the system.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;QuanGaviota&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;h3 id=&#34;related-articles&#34;&gt;Related articles&lt;/h3&gt;</description>
+      <description>&lt;p&gt;As Babelfish development progresses, so will you as developers.&lt;/p&gt;&#xA;&lt;p&gt;Babelfish is many things. In addition to being a node manager, it&amp;rsquo;s also a virtual machine for executing operations on the blockchain, a suite of utility applications for users, and a development framework for builders.&lt;/p&gt;&#xA;&lt;p&gt;And you, who witness the project&amp;rsquo;s evolution, will also be the masters of the system.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;QuanGaviota&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;h3 id=&#34;related-articles&#34;&gt;Related articles&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://lovefor.qom/posts/2025/06/2025-06-11-707/&#34;&gt;2025-06-11-707&lt;/a&gt;&#xA;&lt;a href=&#34;http://lovefor.qom/posts/2025/06/2025-06-11-699/&#34;&gt;2025-06-11-699&lt;/a&gt;&#xA;&lt;a href=&#34;http://lovefor.qom/posts/2025/05/2025-05-24-239/&#34;&gt;2025-05-24-239&lt;/a&gt;&#xA;&lt;a href=&#34;http://lovefor.qom/posts/2025/05/2025-05-19-30/&#34;&gt;2025-05-19-30&lt;/a&gt;&#xA;&lt;a href=&#34;http://lovefor.qom/posts/2025/06/2025-06-16-928/&#34;&gt;2025-06-16-928&lt;/a&gt;&#xA;&lt;a href=&#34;http://lovefor.qom/posts/2025/06/2025-06-05-587/&#34;&gt;2025-06-05-587&lt;/a&gt;&#xA;&lt;a href=&#34;http://lovefor.qom/posts/2025/06/2025-06-29-1184/&#34;&gt;2025-06-29-1184&lt;/a&gt;&#xA;&lt;a href=&#34;http://lovefor.qom/posts/2025/05/2025-05-20-70/&#34;&gt;2025-05-20-70&lt;/a&gt;&#xA;&lt;a href=&#34;http://lovefor.qom/posts/2025/05/2025-05-20-72/&#34;&gt;2025-05-20-72&lt;/a&gt;&#xA;&lt;a href=&#34;http://lovefor.qom/posts/2025/06/2025-06-19-987/&#34;&gt;2025-06-19-987&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>2025-06-10-662</title>
@@ -177,14 +163,14 @@
       <link>http://lovefor.qom/posts/2025/06/2025-06-05-587/</link>
       <pubDate>Thu, 05 Jun 2025 15:46:41 +0000</pubDate><author>e@mail.qom (Jane Doe)</author>
       <guid>http://lovefor.qom/posts/2025/06/2025-06-05-587/</guid>
-      <description>&lt;p&gt;Think of Babelfish as an engine. The software, by definition, is a general-purpose virtual machine, the Babel Virtual Machine.&lt;/p&gt;&#xA;&lt;p&gt;Once the environment is set up and the main mechanisms are implemented, Babelfish will be a personal bridge between you (your devices) and the open sea of ​​the on-chain internet.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;teh_woman_in_red&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;h3 id=&#34;related-articles&#34;&gt;Related articles&lt;/h3&gt;</description>
+      <description>&lt;p&gt;Think of Babelfish as an engine. The software, by definition, is a general-purpose virtual machine, the Babel Virtual Machine.&lt;/p&gt;&#xA;&lt;p&gt;Once the environment is set up and the main mechanisms are implemented, Babelfish will be a personal bridge between you (your devices) and the open sea of ​​the on-chain internet.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;teh_woman_in_red&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;h3 id=&#34;related-articles&#34;&gt;Related articles&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://lovefor.qom/posts/2025/06/2025-06-11-707/&#34;&gt;2025-06-11-707&lt;/a&gt;&#xA;&lt;a href=&#34;http://lovefor.qom/posts/2025/05/2025-05-24-239/&#34;&gt;2025-05-24-239&lt;/a&gt;&#xA;&lt;a href=&#34;http://lovefor.qom/posts/2025/06/2025-06-11-694/&#34;&gt;2025-06-11-694&lt;/a&gt;&#xA;&lt;a href=&#34;http://lovefor.qom/posts/2025/06/2025-06-11-699/&#34;&gt;2025-06-11-699&lt;/a&gt;&#xA;&lt;a href=&#34;http://lovefor.qom/posts/2025/06/2025-06-16-928/&#34;&gt;2025-06-16-928&lt;/a&gt;&#xA;&lt;a href=&#34;http://lovefor.qom/posts/2025/06/2025-06-18-981/&#34;&gt;2025-06-18-981&lt;/a&gt;&#xA;&lt;a href=&#34;http://lovefor.qom/posts/2025/06/2025-06-19-987/&#34;&gt;2025-06-19-987&lt;/a&gt;&#xA;&lt;a href=&#34;http://lovefor.qom/posts/2025/05/2025-05-20-72/&#34;&gt;2025-05-20-72&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>2025-06-05-586</title>
       <link>http://lovefor.qom/posts/2025/06/2025-06-05-586/</link>
       <pubDate>Thu, 05 Jun 2025 15:43:17 +0000</pubDate><author>e@mail.qom (Jane Doe)</author>
       <guid>http://lovefor.qom/posts/2025/06/2025-06-05-586/</guid>
-      <description>&lt;p&gt;Related to DNS, yes. The goal is to create a large, interconnected network of nodes that self-manage their own DNS resolution, not only to prevent attacks, but also to govern our own domain layer and, in turn, our own internet.&lt;/p&gt;&#xA;&lt;p&gt;But that&amp;rsquo;s not the only goal of Babelfish; that&amp;rsquo;s just the DNS functionality.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;teh_woman_in_red&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;h3 id=&#34;related-articles&#34;&gt;Related articles&lt;/h3&gt;</description>
+      <description>&lt;p&gt;Related to DNS, yes. The goal is to create a large, interconnected network of nodes that self-manage their own DNS resolution, not only to prevent attacks, but also to govern our own domain layer and, in turn, our own internet.&lt;/p&gt;&#xA;&lt;p&gt;But that&amp;rsquo;s not the only goal of Babelfish; that&amp;rsquo;s just the DNS functionality.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;teh_woman_in_red&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;h3 id=&#34;related-articles&#34;&gt;Related articles&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://lovefor.qom/posts/2025/05/2025-05-20-90/&#34;&gt;2025-05-20-90&lt;/a&gt;&#xA;&lt;a href=&#34;http://lovefor.qom/posts/2025/05/2025-05-25-284/&#34;&gt;2025-05-25-284&lt;/a&gt;&#xA;&lt;a href=&#34;http://lovefor.qom/posts/2025/06/2025-06-04-581/&#34;&gt;2025-06-04-581&lt;/a&gt;&#xA;&lt;a href=&#34;http://lovefor.qom/posts/2025/06/2025-06-29-1183/&#34;&gt;2025-06-29-1183&lt;/a&gt;&#xA;&lt;a href=&#34;http://lovefor.qom/posts/2025/05/2025-05-23-138/&#34;&gt;2025-05-23-138&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>2025-06-04-581</title>
@@ -229,32 +215,25 @@
       <description>&lt;p&gt;Today, May 25, 2025, on Towel Day, we celebrate the foundation of Deep Thought Computer!&lt;/p&gt;&#xA;&lt;p&gt;The first blockchain-founded research and development lab, driven by cypherpunk ideals.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://x.com/DeepThought_Lab/status/1926836360930894185&#34;&gt;https://x.com/DeepThought_Lab/status/1926836360930894185&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;teh_woman_in_red&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;h3 id=&#34;related-articles&#34;&gt;Related articles&lt;/h3&gt;</description>
     </item>
     <item>
-      <title>2025-05-25-377</title>
-      <link>http://lovefor.qom/posts/2025/05/2025-05-25-377/</link>
-      <pubDate>Sun, 25 May 2025 17:03:27 +0000</pubDate><author>e@mail.qom (Jane Doe)</author>
-      <guid>http://lovefor.qom/posts/2025/05/2025-05-25-377/</guid>
-      <description>&lt;p&gt;Leveraging BabelFish Protocol for Custom Domains&lt;/p&gt;&#xA;&lt;p&gt;The BabelFish protocol allows you to connect custom domains to any location on the internet or blockchain.&lt;/p&gt;&#xA;&lt;p&gt;The BabelFish dashboard offers tools for hosting and managing web content directly on the blockchain. However, it&amp;rsquo;s important to inform the community about the different hosting options available.&lt;/p&gt;&#xA;&lt;p&gt;GitHub Pages is an excellent example of a free platform where you can host websites and easily connect them to a custom domain using the BabelFish protocol.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>2025-05-25-284</title>
       <link>http://lovefor.qom/posts/2025/05/2025-05-25-284/</link>
       <pubDate>Sun, 25 May 2025 03:29:08 +0000</pubDate><author>e@mail.qom (Jane Doe)</author>
       <guid>http://lovefor.qom/posts/2025/05/2025-05-25-284/</guid>
-      <description>&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;the IP can be fixed to any address you need.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;the DNS server will be handled be BabelFish. It will be fixed:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;When is &amp;lsquo;Connected&amp;rsquo;, the ip should be 127.3.6.9 (the qom numbers 😆), is the local DNS server inside BabelFish node.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;When is &amp;lsquo;Disconnected&amp;rsquo; is set 1.1.1.1, the public cloudflare DNS, in order to ensure user have regular dns resolution.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;teh_woman_in_red&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;h3 id=&#34;related-articles&#34;&gt;Related articles&lt;/h3&gt;</description>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;the IP can be fixed to any address you need.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;the DNS server will be handled be BabelFish. It will be fixed:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;When is &amp;lsquo;Connected&amp;rsquo;, the ip should be 127.3.6.9 (the qom numbers 😆), is the local DNS server inside BabelFish node.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;When is &amp;lsquo;Disconnected&amp;rsquo; is set 1.1.1.1, the public cloudflare DNS, in order to ensure user have regular dns resolution.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;teh_woman_in_red&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;h3 id=&#34;related-articles&#34;&gt;Related articles&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://lovefor.qom/posts/2025/06/2025-06-04-581/&#34;&gt;2025-06-04-581&lt;/a&gt;&#xA;&lt;a href=&#34;http://lovefor.qom/posts/2025/06/2025-06-05-586/&#34;&gt;2025-06-05-586&lt;/a&gt;&#xA;&lt;a href=&#34;http://lovefor.qom/posts/2025/05/2025-05-23-209/&#34;&gt;2025-05-23-209&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>2025-05-24-243</title>
       <link>http://lovefor.qom/posts/2025/05/2025-05-24-243/</link>
       <pubDate>Sat, 24 May 2025 19:08:50 +0000</pubDate><author>e@mail.qom (Jane Doe)</author>
       <guid>http://lovefor.qom/posts/2025/05/2025-05-24-243/</guid>
-      <description>&lt;p&gt;That&amp;rsquo;s right, by owning a domain in the form of an NFT, anyone can develop products using their own domain names.&lt;/p&gt;&#xA;&lt;p&gt;Of course, everyone must be careful about what data they make public, but the same applies to any project, whether it&amp;rsquo;s a legacy web project or a blockchain project.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;teh_woman_in_red&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;h3 id=&#34;related-articles&#34;&gt;Related articles&lt;/h3&gt;</description>
+      <description>&lt;p&gt;That&amp;rsquo;s right, by owning a domain in the form of an NFT, anyone can develop products using their own domain names.&lt;/p&gt;&#xA;&lt;p&gt;Of course, everyone must be careful about what data they make public, but the same applies to any project, whether it&amp;rsquo;s a legacy web project or a blockchain project.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;teh_woman_in_red&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;h3 id=&#34;related-articles&#34;&gt;Related articles&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://lovefor.qom/posts/2025/05/2025-05-29-538/&#34;&gt;2025-05-29-538&lt;/a&gt;&#xA;&lt;a href=&#34;http://lovefor.qom/posts/2025/05/2025-05-24-239/&#34;&gt;2025-05-24-239&lt;/a&gt;&#xA;&lt;a href=&#34;http://lovefor.qom/posts/2025/05/2025-05-25-377/&#34;&gt;2025-05-25-377&lt;/a&gt;&#xA;&lt;a href=&#34;http://lovefor.qom/posts/2025/05/2025-05-23-138/&#34;&gt;2025-05-23-138&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>2025-05-24-239</title>
       <link>http://lovefor.qom/posts/2025/05/2025-05-24-239/</link>
       <pubDate>Sat, 24 May 2025 16:04:02 +0000</pubDate><author>e@mail.qom (Jane Doe)</author>
       <guid>http://lovefor.qom/posts/2025/05/2025-05-24-239/</guid>
-      <description>&lt;p&gt;The core functionality of BabelFish is already up and running.&lt;/p&gt;&#xA;&lt;p&gt;Now it&amp;rsquo;s up to each small developer to create their sites and invite others to join.&lt;/p&gt;&#xA;&lt;p&gt;The BabelFish software will continue to be updated, and once the testing phase is complete, domains will be minted as NFTs and can be managed directly on the platform.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;teh_woman_in_red&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;h3 id=&#34;related-articles&#34;&gt;Related articles&lt;/h3&gt;</description>
+      <description>&lt;p&gt;The core functionality of BabelFish is already up and running.&lt;/p&gt;&#xA;&lt;p&gt;Now it&amp;rsquo;s up to each small developer to create their sites and invite others to join.&lt;/p&gt;&#xA;&lt;p&gt;The BabelFish software will continue to be updated, and once the testing phase is complete, domains will be minted as NFTs and can be managed directly on the platform.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;teh_woman_in_red&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;h3 id=&#34;related-articles&#34;&gt;Related articles&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://lovefor.qom/posts/2025/06/2025-06-16-928/&#34;&gt;2025-06-16-928&lt;/a&gt;&#xA;&lt;a href=&#34;http://lovefor.qom/posts/2025/06/2025-06-11-694/&#34;&gt;2025-06-11-694&lt;/a&gt;&#xA;&lt;a href=&#34;http://lovefor.qom/posts/2025/06/2025-06-11-707/&#34;&gt;2025-06-11-707&lt;/a&gt;&#xA;&lt;a href=&#34;http://lovefor.qom/posts/2025/05/2025-05-25-377/&#34;&gt;2025-05-25-377&lt;/a&gt;&#xA;&lt;a href=&#34;http://lovefor.qom/posts/2025/05/2025-05-23-138/&#34;&gt;2025-05-23-138&lt;/a&gt;&#xA;&lt;a href=&#34;http://lovefor.qom/posts/2025/06/2025-06-11-699/&#34;&gt;2025-06-11-699&lt;/a&gt;&#xA;&lt;a href=&#34;http://lovefor.qom/posts/2025/06/2025-06-05-587/&#34;&gt;2025-06-05-587&lt;/a&gt;&#xA;&lt;a href=&#34;http://lovefor.qom/posts/2025/06/2025-06-29-1184/&#34;&gt;2025-06-29-1184&lt;/a&gt;&#xA;&lt;a href=&#34;http://lovefor.qom/posts/2025/05/2025-05-20-72/&#34;&gt;2025-05-20-72&lt;/a&gt;&#xA;&lt;a href=&#34;http://lovefor.qom/posts/2025/05/2025-05-20-90/&#34;&gt;2025-05-20-90&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>2025-05-23-209</title>
@@ -289,7 +268,7 @@
       <link>http://lovefor.qom/posts/2025/05/2025-05-22-131/</link>
       <pubDate>Thu, 22 May 2025 16:03:10 +0000</pubDate><author>e@mail.qom (Jane Doe)</author>
       <guid>http://lovefor.qom/posts/2025/05/2025-05-22-131/</guid>
-      <description>&lt;p&gt;Should not affect, really the expected is that BabelFish can works well without specific requirements on user device&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;teh_woman_in_red&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;h3 id=&#34;related-articles&#34;&gt;Related articles&lt;/h3&gt;</description>
+      <description>&lt;p&gt;Should not affect, really the expected is that BabelFish can works well without specific requirements on user device&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;teh_woman_in_red&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;h3 id=&#34;related-articles&#34;&gt;Related articles&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://lovefor.qom/posts/2025/06/2025-06-16-928/&#34;&gt;2025-06-16-928&lt;/a&gt;&#xA;&lt;a href=&#34;http://lovefor.qom/posts/2025/05/2025-05-24-239/&#34;&gt;2025-05-24-239&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>2025-05-20-90</title>
@@ -303,7 +282,28 @@
       <link>http://lovefor.qom/posts/2025/05/2025-05-20-72/</link>
       <pubDate>Tue, 20 May 2025 16:19:23 +0000</pubDate><author>e@mail.qom (Jane Doe)</author>
       <guid>http://lovefor.qom/posts/2025/05/2025-05-20-72/</guid>
-      <description>&lt;p&gt;As the project progresses, it will be necessary to manage test environments for specific features. To achieve this, the installable Babelfish software must support multiple chains and direct peer-to-peer communication between nodes.&lt;/p&gt;&#xA;&lt;p&gt;A minimum of two Babelfish nodes pointing to the same chain (mainet or testnet) will be able to interact.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;teh_woman_in_red&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;h3 id=&#34;related-articles&#34;&gt;Related articles&lt;/h3&gt;&#xA;&lt;p&gt;[[2025-05-20-70]]&#xA;[[2025-06-11-694]]&#xA;[[2025-05-19-30]]&#xA;[[2025-05-24-239]]&#xA;[[2025-06-11-699]]&#xA;[[2025-06-19-988]]&#xA;[[2025-06-19-987]]&#xA;[[2025-06-11-707]]&#xA;[[2025-05-20-90]]&#xA;[[2025-06-05-587]]&#xA;[[2025-06-29-1184]]&#xA;[[2025-06-16-928]]&#xA;[[2025-05-20-71]]&#xA;[[2025-06-18-981]]&#xA;[[2025-05-25-377]]&#xA;[[2025-05-23-138]]&#xA;[[2025-06-05-586]]&#xA;[[2025-05-28-461]]&#xA;[[2025-05-20-70]]&lt;/p&gt;</description>
+      <description>&lt;p&gt;As the project progresses, it will be necessary to manage test environments for specific features. To achieve this, the installable Babelfish software must support multiple chains and direct peer-to-peer communication between nodes.&lt;/p&gt;&#xA;&lt;p&gt;A minimum of two Babelfish nodes pointing to the same chain (mainet or testnet) will be able to interact.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;teh_woman_in_red&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;h3 id=&#34;related-articles&#34;&gt;Related articles&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://lovefor.qom/posts/2025/05/2025-05-20-70/&#34;&gt;2025-05-20-70&lt;/a&gt;&#xA;&lt;a href=&#34;http://lovefor.qom/posts/2025/06/2025-06-11-694/&#34;&gt;2025-06-11-694&lt;/a&gt;&#xA;&lt;a href=&#34;http://lovefor.qom/posts/2025/05/2025-05-19-30/&#34;&gt;2025-05-19-30&lt;/a&gt;&#xA;&lt;a href=&#34;http://lovefor.qom/posts/2025/05/2025-05-24-239/&#34;&gt;2025-05-24-239&lt;/a&gt;&#xA;&lt;a href=&#34;http://lovefor.qom/posts/2025/06/2025-06-11-699/&#34;&gt;2025-06-11-699&lt;/a&gt;&#xA;&lt;a href=&#34;http://lovefor.qom/posts/2025/06/2025-06-19-988/&#34;&gt;2025-06-19-988&lt;/a&gt;&#xA;&lt;a href=&#34;http://lovefor.qom/posts/2025/06/2025-06-29-1184/&#34;&gt;2025-06-29-1184&lt;/a&gt;&#xA;&lt;a href=&#34;http://lovefor.qom/posts/2025/06/2025-06-16-928/&#34;&gt;2025-06-16-928&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>2025-05-20-71</title>
+      <link>http://lovefor.qom/posts/2025/05/2025-05-20-71/</link>
+      <pubDate>Tue, 20 May 2025 16:13:46 +0000</pubDate><author>e@mail.qom (Jane Doe)</author>
+      <guid>http://lovefor.qom/posts/2025/05/2025-05-20-71/</guid>
+      <description>&lt;p&gt;Yes, the builder who wants to implement a payment system just needs to connect his platform to a babelfish node, and through the babelfish API it will find the shortest path for that transaction, depending on whether the user has direct access to the network due to a local babelfish installation, or if the user does not have it, then the communication will be through the babelfish node on the builder&amp;rsquo;s server&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>2025-05-20-70</title>
+      <link>http://lovefor.qom/posts/2025/05/2025-05-20-70/</link>
+      <pubDate>Tue, 20 May 2025 16:04:51 +0000</pubDate><author>e@mail.qom (Jane Doe)</author>
+      <guid>http://lovefor.qom/posts/2025/05/2025-05-20-70/</guid>
+      <description>&lt;p&gt;Regarding the minimum number of nodes for a test environment.&lt;/p&gt;&#xA;&lt;p&gt;That&amp;rsquo;s a good question, and it&amp;rsquo;s good to consider the cases in which a test environment would be necessary.&lt;/p&gt;&#xA;&lt;p&gt;The main objective and flow of Babelfish at the user level is to provide the user with the ability to communicate directly with the blockchain from their device, avoiding the need to rely on a single point of failure, such as the remote server of the service that provides the data.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>2025-05-19-30</title>
+      <link>http://lovefor.qom/posts/2025/05/2025-05-19-30/</link>
+      <pubDate>Mon, 19 May 2025 19:01:48 +0000</pubDate><author>e@mail.qom (Jane Doe)</author>
+      <guid>http://lovefor.qom/posts/2025/05/2025-05-19-30/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;The BabelFish Protocol&lt;/strong&gt;  is a universal protocol that connects devices to blockchains and interlinks blockchain ecosystems through P2P communication.&lt;/p&gt;&#xA;&lt;p&gt;Local nodes, known as BabelFish Nodes, are installed on users’ devices and form the backbone of this decentralized architecture.&lt;/p&gt;&#xA;&lt;p&gt;These nodes expand and strengthen the blockchain’s network by maintaining data and synchronizing resources, while also interlacing with other blockchains to create a supermesh of decentralized networks.&lt;/p&gt;&#xA;&lt;p&gt;Operating without centralized servers or traditional IPs, the protocol enables a resilient and scalable cyberspace.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

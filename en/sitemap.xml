@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://lovefor.qom/posts/2025/06/2025-06-29-1185/</loc>
-    <lastmod>2025-06-29T19:47:38+00:00</lastmod>
-  </url><url>
     <loc>http://lovefor.qom/</loc>
     <lastmod>2025-06-29T19:47:38+00:00</lastmod>
     <xhtml:link
@@ -24,13 +21,38 @@
     <loc>http://lovefor.qom/posts/2025/06/2025-06-29-1184/</loc>
     <lastmod>2025-06-29T19:19:49+00:00</lastmod>
   </url><url>
+    <loc>http://lovefor.qom/tags/communitydriven/</loc>
+    <lastmod>2025-06-29T19:19:49+00:00</lastmod>
+  </url><url>
+    <loc>http://lovefor.qom/tags/</loc>
+    <lastmod>2025-06-29T19:19:49+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://lovefor.qom/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://lovefor.qom/tags/"
+                />
+  </url><url>
     <loc>http://lovefor.qom/posts/2025/06/2025-06-29-1183/</loc>
+    <lastmod>2025-06-29T19:08:18+00:00</lastmod>
+  </url><url>
+    <loc>http://lovefor.qom/tags/specifications/</loc>
     <lastmod>2025-06-29T19:08:18+00:00</lastmod>
   </url><url>
     <loc>http://lovefor.qom/posts/2025/06/2025-06-25-1104/</loc>
     <lastmod>2025-06-25T04:20:10+00:00</lastmod>
   </url><url>
+    <loc>http://lovefor.qom/tags/study/</loc>
+    <lastmod>2025-06-25T04:20:10+00:00</lastmod>
+  </url><url>
     <loc>http://lovefor.qom/posts/2025/06/2025-06-23-1080/</loc>
+    <lastmod>2025-06-23T18:11:29+00:00</lastmod>
+  </url><url>
+    <loc>http://lovefor.qom/tags/tool/</loc>
     <lastmod>2025-06-23T18:11:29+00:00</lastmod>
   </url><url>
     <loc>http://lovefor.qom/posts/2025/06/2025-06-23-1078/</loc>
@@ -42,13 +64,13 @@
     <loc>http://lovefor.qom/posts/2025/06/2025-06-21-1050/</loc>
     <lastmod>2025-06-21T04:06:53+00:00</lastmod>
   </url><url>
-    <loc>http://lovefor.qom/posts/2025/06/2025-06-20-1037/</loc>
-    <lastmod>2025-06-20T06:12:13+00:00</lastmod>
-  </url><url>
     <loc>http://lovefor.qom/posts/2025/06/2025-06-19-991/</loc>
     <lastmod>2025-06-19T02:26:25+00:00</lastmod>
   </url><url>
     <loc>http://lovefor.qom/posts/2025/06/2025-06-19-989/</loc>
+    <lastmod>2025-06-19T01:50:23+00:00</lastmod>
+  </url><url>
+    <loc>http://lovefor.qom/tags/p2p/</loc>
     <lastmod>2025-06-19T01:50:23+00:00</lastmod>
   </url><url>
     <loc>http://lovefor.qom/posts/2025/06/2025-06-19-988/</loc>
@@ -57,10 +79,16 @@
     <loc>http://lovefor.qom/posts/2025/06/2025-06-19-987/</loc>
     <lastmod>2025-06-19T01:38:51+00:00</lastmod>
   </url><url>
+    <loc>http://lovefor.qom/tags/importantnote/</loc>
+    <lastmod>2025-06-19T01:38:51+00:00</lastmod>
+  </url><url>
     <loc>http://lovefor.qom/posts/2025/06/2025-06-18-981/</loc>
     <lastmod>2025-06-18T23:27:53+00:00</lastmod>
   </url><url>
     <loc>http://lovefor.qom/posts/2025/06/2025-06-18-972/</loc>
+    <lastmod>2025-06-18T22:53:10+00:00</lastmod>
+  </url><url>
+    <loc>http://lovefor.qom/tags/zkproof/</loc>
     <lastmod>2025-06-18T22:53:10+00:00</lastmod>
   </url><url>
     <loc>http://lovefor.qom/posts/2025/06/2025-06-16-928/</loc>
@@ -70,6 +98,9 @@
     <lastmod>2025-06-11T04:36:23+00:00</lastmod>
   </url><url>
     <loc>http://lovefor.qom/posts/2025/06/2025-06-11-703/</loc>
+    <lastmod>2025-06-11T04:14:22+00:00</lastmod>
+  </url><url>
+    <loc>http://lovefor.qom/tags/validator/</loc>
     <lastmod>2025-06-11T04:14:22+00:00</lastmod>
   </url><url>
     <loc>http://lovefor.qom/posts/2025/06/2025-06-11-699/</loc>
@@ -87,7 +118,13 @@
     <loc>http://lovefor.qom/posts/2025/06/2025-06-10-661/</loc>
     <lastmod>2025-06-10T02:51:56+00:00</lastmod>
   </url><url>
+    <loc>http://lovefor.qom/tags/philosophy/</loc>
+    <lastmod>2025-06-10T02:51:56+00:00</lastmod>
+  </url><url>
     <loc>http://lovefor.qom/posts/2025/06/2025-06-05-587/</loc>
+    <lastmod>2025-06-05T15:46:41+00:00</lastmod>
+  </url><url>
+    <loc>http://lovefor.qom/tags/metaphor/</loc>
     <lastmod>2025-06-05T15:46:41+00:00</lastmod>
   </url><url>
     <loc>http://lovefor.qom/posts/2025/06/2025-06-05-586/</loc>
@@ -111,13 +148,16 @@
     <loc>http://lovefor.qom/posts/2025/05/2025-05-26-399/</loc>
     <lastmod>2025-05-26T03:03:42+00:00</lastmod>
   </url><url>
-    <loc>http://lovefor.qom/posts/2025/05/2025-05-25-377/</loc>
-    <lastmod>2025-05-25T17:03:27+00:00</lastmod>
+    <loc>http://lovefor.qom/tags/towelday/</loc>
+    <lastmod>2025-05-26T03:03:42+00:00</lastmod>
   </url><url>
     <loc>http://lovefor.qom/posts/2025/05/2025-05-25-284/</loc>
     <lastmod>2025-05-25T03:29:08+00:00</lastmod>
   </url><url>
     <loc>http://lovefor.qom/posts/2025/05/2025-05-24-243/</loc>
+    <lastmod>2025-05-24T19:08:50+00:00</lastmod>
+  </url><url>
+    <loc>http://lovefor.qom/tags/domainnft/</loc>
     <lastmod>2025-05-24T19:08:50+00:00</lastmod>
   </url><url>
     <loc>http://lovefor.qom/posts/2025/05/2025-05-24-239/</loc>
@@ -133,6 +173,12 @@
     <lastmod>2025-05-23T16:05:05+00:00</lastmod>
   </url><url>
     <loc>http://lovefor.qom/posts/2025/05/2025-05-23-138/</loc>
+    <lastmod>2025-05-23T01:34:02+00:00</lastmod>
+  </url><url>
+    <loc>http://lovefor.qom/tags/github/</loc>
+    <lastmod>2025-05-23T01:34:02+00:00</lastmod>
+  </url><url>
+    <loc>http://lovefor.qom/tags/githubpages/</loc>
     <lastmod>2025-05-23T01:34:02+00:00</lastmod>
   </url><url>
     <loc>http://lovefor.qom/posts/2025/05/2025-05-22-131/</loc>
@@ -153,6 +199,9 @@
     <loc>http://lovefor.qom/posts/2025/05/2025-05-19-30/</loc>
     <lastmod>2025-05-19T19:01:48+00:00</lastmod>
   </url><url>
+    <loc>http://lovefor.qom/tags/whitepaper/</loc>
+    <lastmod>2025-05-19T19:01:48+00:00</lastmod>
+  </url><url>
     <loc>http://lovefor.qom/about/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url><url>
@@ -166,18 +215,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://lovefor.qom/categories/"
-                />
-  </url><url>
-    <loc>http://lovefor.qom/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://lovefor.qom/fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://lovefor.qom/tags/"
                 />
   </url>
 </urlset>
