@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>CommunityDriven on Hello Friend</title>
+    <title>CommunityDriven on Babelibra</title>
     <link>http://lovefor.qom/tags/communitydriven/</link>
-    <description>Recent content in CommunityDriven on Hello Friend</description>
+    <description>Recent content in CommunityDriven on Babelibra</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <managingEditor>e@mail.qom (Jane Doe)</managingEditor>
-    <webMaster>e@mail.qom (Jane Doe)</webMaster>
+    <managingEditor>example@mail.qom (Deep thought Community)</managingEditor>
+    <webMaster>example@mail.qom (Deep thought Community)</webMaster>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Sun, 29 Jun 2025 19:19:49 +0000</lastBuildDate>
     <atom:link href="http://lovefor.qom/tags/communitydriven/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2025-06-29-1184</title>
       <link>http://lovefor.qom/posts/2025/06/2025-06-29-1184/</link>
-      <pubDate>Sun, 29 Jun 2025 19:19:49 +0000</pubDate><author>e@mail.qom (Jane Doe)</author>
+      <pubDate>Sun, 29 Jun 2025 19:19:49 +0000</pubDate><author>example@mail.qom (Deep thought Community)</author>
       <guid>http://lovefor.qom/posts/2025/06/2025-06-29-1184/</guid>
       <description>&lt;p&gt;Dear Community, Based on recent questions, we’ve identified the need to update our documentation to clearly outline the components of the Babel Fish project.&lt;/p&gt;&#xA;&lt;p&gt;We want to specify what’s currently in development, what’s in testing, and our long-term goals.&lt;/p&gt;&#xA;&lt;p&gt;For website creation, we need detailed posts, courses, or tutorials to guide users on how to build sites now (e.g., using static sites and GitHub) and how the migration to our P2P network will work in the future.&lt;/p&gt;</description>
     </item>
     <item>
       <title>2025-06-11-695</title>
       <link>http://lovefor.qom/posts/2025/06/2025-06-11-695/</link>
-      <pubDate>Wed, 11 Jun 2025 02:14:06 +0000</pubDate><author>e@mail.qom (Jane Doe)</author>
+      <pubDate>Wed, 11 Jun 2025 02:14:06 +0000</pubDate><author>example@mail.qom (Deep thought Community)</author>
       <guid>http://lovefor.qom/posts/2025/06/2025-06-11-695/</guid>
       <description>&lt;p&gt;There will be public libraries to implement Babelfish services in your own projects.&#xA;And community-powered documentation.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;QuanGaviota&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;h3 id=&#34;related-articles&#34;&gt;Related articles&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://lovefor.qom/posts/2025/06/2025-06-29-1184/&#34;&gt;2025-06-29-1184&lt;/a&gt;&#xA;&lt;a href=&#34;http://lovefor.qom/posts/2025/06/2025-06-16-928/&#34;&gt;2025-06-16-928&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>2025-05-28-461</title>
       <link>http://lovefor.qom/posts/2025/05/2025-05-28-461/</link>
-      <pubDate>Wed, 28 May 2025 17:01:34 +0000</pubDate><author>e@mail.qom (Jane Doe)</author>
+      <pubDate>Wed, 28 May 2025 17:01:34 +0000</pubDate><author>example@mail.qom (Deep thought Community)</author>
       <guid>http://lovefor.qom/posts/2025/05/2025-05-28-461/</guid>
       <description>&lt;p&gt;My friends, all of this is just in its infancy, and there are no tutorials or guides out there yet.&lt;/p&gt;&#xA;&lt;p&gt;Here, as a community, it&amp;rsquo;s up to us to create these resources ourselves, and we all support each other with whatever knowledge we have so we can all grow.&lt;/p&gt;&#xA;&lt;p&gt;At the moment, the devs are focusing on the protocol code, and the new members who are joining are starting to help us with testing from their computers.&#xA;Some are writing guides; others are building their websites within our network.&lt;/p&gt;</description>
     </item>

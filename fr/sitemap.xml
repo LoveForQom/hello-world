@@ -2,18 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://lovefor.qom/fr/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://lovefor.qom/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://lovefor.qom/fr/categories/"
-                />
-  </url><url>
     <loc>http://lovefor.qom/fr/</loc>
     <xhtml:link
                 rel="alternate"
@@ -24,6 +12,18 @@
                 rel="alternate"
                 hreflang="fr"
                 href="http://lovefor.qom/fr/"
+                />
+  </url><url>
+    <loc>http://lovefor.qom/fr/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://lovefor.qom/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://lovefor.qom/fr/categories/"
                 />
   </url><url>
     <loc>http://lovefor.qom/fr/tags/</loc>
