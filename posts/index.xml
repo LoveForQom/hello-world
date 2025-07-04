@@ -7,8 +7,81 @@
         <language>en</language>
         <managingEditor>example@mail.qom (Deep thought Community)</managingEditor>
         <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-        <lastBuildDate>Sun, 29 Jun 2025 19:47:38 +0000</lastBuildDate>
+        <lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0000</lastBuildDate>
         <atom:link href="http://lovefor.qom/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>How to Use CLI</title>
+            <link>http://lovefor.qom/posts/2025/07/how-to-use-cli/</link>
+            <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+            <author>example@mail.qom (Deep thought Community)</author>
+            <guid>http://lovefor.qom/posts/2025/07/how-to-use-cli/</guid>
+            <description>&lt;h2 id=&#34;frequently-used-terminal-commands-macwindows&#34;&gt;Frequently Used Terminal Commands (Mac/Windows)&lt;/h2&gt;
+&lt;p&gt;In this section, we&amp;rsquo;ll introduce commonly used terminal commands. Since Mac and Windows use different commands, we&amp;rsquo;ll only focus on a few that are frequently used on both platforms. Try entering each command in your terminal (Mac) or PowerShell (Windows) as you read through the explanations.&lt;/p&gt;
+&lt;p&gt;There are many more useful commands—feel free to explore and learn beyond this list!&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;pwd&#34;&gt;&lt;code&gt;pwd&lt;/code&gt;&lt;/h3&gt;
+&lt;p&gt;Displays the current directory path (also known as the &amp;ldquo;current working directory&amp;rdquo;). A path is like an address within your computer. Even if you&amp;rsquo;re in the same building, you can&amp;rsquo;t find something unless you&amp;rsquo;re on the right floor.&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<h2 id="frequently-used-terminal-commands-macwindows">Frequently Used Terminal Commands (Mac/Windows)</h2>
+<p>In this section, we&rsquo;ll introduce commonly used terminal commands. Since Mac and Windows use different commands, we&rsquo;ll only focus on a few that are frequently used on both platforms. Try entering each command in your terminal (Mac) or PowerShell (Windows) as you read through the explanations.</p>
+<p>There are many more useful commands—feel free to explore and learn beyond this list!</p>
+<hr>
+<h3 id="pwd"><code>pwd</code></h3>
+<p>Displays the current directory path (also known as the &ldquo;current working directory&rdquo;). A path is like an address within your computer. Even if you&rsquo;re in the same building, you can&rsquo;t find something unless you&rsquo;re on the right floor.</p>
+<p>Understanding where you are in the file structure is essential.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>$ pwd
+</span></span></code></pre></div><p>→ Shows your current location within your computer&rsquo;s file system.</p>
+<hr>
+<h3 id="cd"><code>cd</code></h3>
+<p>Changes the current directory.<br>
+Running <code>cd</code> without arguments takes you to your home directory.<br>
+You can check your new location using the <code>pwd</code> command.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>$ cd desktop
+</span></span></code></pre></div><p>→ Moves into the <code>desktop</code> directory.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>$ cd ../
+</span></span></code></pre></div><p>→ Moves one level up from the current directory.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>$ cd ../../
+</span></span></code></pre></div><p>→ Moves two levels up in the directory structure.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>$ cd desktop/test
+</span></span></code></pre></div><p>→ Moves directly into the <code>test</code> folder on the desktop.</p>
+<p>If the specified directory doesn&rsquo;t exist, you&rsquo;ll get an error:<br>
+<code>No such file or directory</code>.</p>
+<hr>
+<h3 id="mkdir"><code>mkdir</code></h3>
+<p>Creates a new directory (short for &ldquo;make directory&rdquo;).<br>
+This command <strong>requires</strong> a directory name as an argument.</p>
+<p>First, navigate to your desktop and then create a new folder:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>$ cd desktop
+</span></span><span style="display:flex;"><span>$ mkdir test
+</span></span></code></pre></div><p>→ This will create a new folder called <code>test</code> on your desktop.</p>
+<hr>
+<h3 id="touch-maclinux--new-item-powershell"><code>touch</code> (Mac/Linux) / <code>New-Item</code> (PowerShell)</h3>
+<p>Creates a new file in the current directory.</p>
+<p>On <strong>Mac/Linux</strong>:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>$ touch memo.txt
+</span></span></code></pre></div><p>On <strong>Windows PowerShell</strong>:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>$ New-Item memo.md
+</span></span></code></pre></div><p>→ A new file named <code>memo.txt</code> or <code>memo.md</code> will be created in the current folder.</p>
+<hr>
+<h3 id="ls"><code>ls</code></h3>
+<p>Lists the contents of a directory.<br>
+Run <code>ls</code> without arguments to display the contents of the current directory.</p>
+<p>You can also provide a path as an argument to list the contents of a specific directory.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>$ ls test
+</span></span></code></pre></div><p>→ Displays the contents of the <code>test</code> directory. You should see the <code>memo.md</code> file you created earlier.</p>
+<hr>
+<p>Once you understand these commands, try the following exercise:</p>
+<ol>
+<li>Create a new directory somewhere easy to manage.</li>
+<li>Use the <code>cd</code> command to move into that directory.</li>
+<li>Use <code>git clone</code> to copy the <code>hello-world</code> repository to your local machine.</li>
+</ol>
+<p>You&rsquo;re now ready to begin working in your own development environment!</p>
+<blockquote>
+<p>LoveForQom88</p></blockquote>
+<p><a href="/about/">← Back</a></p>
+]]></content>
+        </item>
         
         <item>
             <title>2025-06-29-1184</title>
@@ -394,6 +467,42 @@ That&rsquo;s why we&rsquo;ve decided to wait until the project is more mature to
 <h3 id="related-articles">Related articles</h3>
 <p><a href="/posts/2025/05/2025-05-24-239/">2025-05-24-239</a>
 <a href="/posts/2025/06/2025-06-29-1184/">2025-06-29-1184</a></p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>2025-06-14-866</title>
+            <link>http://lovefor.qom/posts/2025/06/2025-06-14-866/</link>
+            <pubDate>Sat, 14 Jun 2025 00:04:07 +0000</pubDate>
+            <author>example@mail.qom (Deep thought Community)</author>
+            <guid>http://lovefor.qom/posts/2025/06/2025-06-14-866/</guid>
+            <description>&lt;p&gt;&lt;strong&gt;hash SHA-256 of each file&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;ef039682586b94b73c45213b02765a943f8b3e0068c46cd3dcc61fb63e35ff01  BabelFish-v1.0.2-MacOS-App.dmg&lt;/p&gt;
+&lt;p&gt;90227fe60bdfe80674d9ed13b580fb99371a43a4a2c9c34cfffff8564595f8a8  BabelFish-v1.0.2-MacOS-Installer.dmg&lt;/p&gt;
+&lt;p&gt;a76e2e765b487e03fe8f3a179ba26ea0f6d97bdf5e8083e0afa29724bb664dc8  BabelFish-v1.0.2-Windows.exe&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;*This is the &amp;rsquo;exact size&amp;rsquo; of the files; if you calculate the hash of any of these files on your computer, you should get the exact string as described here.
+This is to validate that you are receiving the exact file without modifications along the way.&lt;/p&gt;
+&lt;p&gt;To calculate it on mac:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt; shasum -a 256 BabelFish-v1.0.2-MacOS-Installer.dmg```
+
+To calculate ir on windows
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;certutil -hashfile BabelFish-v1.0.2-Windows.exe SHA256```&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<p><strong>hash SHA-256 of each file</strong>:</p>
+<p>ef039682586b94b73c45213b02765a943f8b3e0068c46cd3dcc61fb63e35ff01  BabelFish-v1.0.2-MacOS-App.dmg</p>
+<p>90227fe60bdfe80674d9ed13b580fb99371a43a4a2c9c34cfffff8564595f8a8  BabelFish-v1.0.2-MacOS-Installer.dmg</p>
+<p>a76e2e765b487e03fe8f3a179ba26ea0f6d97bdf5e8083e0afa29724bb664dc8  BabelFish-v1.0.2-Windows.exe</p>
+<hr>
+<p>*This is the &rsquo;exact size&rsquo; of the files; if you calculate the hash of any of these files on your computer, you should get the exact string as described here.
+This is to validate that you are receiving the exact file without modifications along the way.</p>
+<p>To calculate it on mac:</p>
+<pre tabindex="0"><code> shasum -a 256 BabelFish-v1.0.2-MacOS-Installer.dmg```
+
+To calculate ir on windows
+</code></pre><p>certutil -hashfile BabelFish-v1.0.2-Windows.exe SHA256```</p>
+<blockquote>
+<p>teh_woman_in_red</p></blockquote>
+<h3 id="related-articles">Related articles</h3>
 ]]></content>
         </item>
         

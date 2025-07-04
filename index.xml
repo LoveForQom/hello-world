@@ -9,8 +9,15 @@
     <managingEditor>example@mail.qom (Deep thought Community)</managingEditor>
     <webMaster>example@mail.qom (Deep thought Community)</webMaster>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Sun, 29 Jun 2025 19:19:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://lovefor.qom/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Use CLI</title>
+      <link>http://lovefor.qom/posts/2025/07/how-to-use-cli/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate><author>example@mail.qom (Deep thought Community)</author>
+      <guid>http://lovefor.qom/posts/2025/07/how-to-use-cli/</guid>
+      <description>&lt;h2 id=&#34;frequently-used-terminal-commands-macwindows&#34;&gt;Frequently Used Terminal Commands (Mac/Windows)&lt;/h2&gt;&#xA;&lt;p&gt;In this section, we&amp;rsquo;ll introduce commonly used terminal commands. Since Mac and Windows use different commands, we&amp;rsquo;ll only focus on a few that are frequently used on both platforms. Try entering each command in your terminal (Mac) or PowerShell (Windows) as you read through the explanations.&lt;/p&gt;&#xA;&lt;p&gt;There are many more useful commands—feel free to explore and learn beyond this list!&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;pwd&#34;&gt;&lt;code&gt;pwd&lt;/code&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Displays the current directory path (also known as the &amp;ldquo;current working directory&amp;rdquo;). A path is like an address within your computer. Even if you&amp;rsquo;re in the same building, you can&amp;rsquo;t find something unless you&amp;rsquo;re on the right floor.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>2025-06-29-1184</title>
       <link>http://lovefor.qom/posts/2025/06/2025-06-29-1184/</link>
@@ -108,6 +115,13 @@
       <pubDate>Mon, 16 Jun 2025 12:22:30 +0000</pubDate><author>example@mail.qom (Deep thought Community)</author>
       <guid>http://lovefor.qom/posts/2025/06/2025-06-16-928/</guid>
       <description>&lt;p&gt;Eventually, the Babelfish code will be published to become an open-source community project.&lt;/p&gt;&#xA;&lt;p&gt;For now, it&amp;rsquo;s private for strategic reasons. Remember, there&amp;rsquo;s a risk that others will take Babelfish&amp;rsquo;s ideas and make them their own, like what happened with Vitalik a few weeks ago.&#xA;That&amp;rsquo;s why we&amp;rsquo;ve decided to wait until the project is more mature to release the source code.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;teh_woman_in_red&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;h3 id=&#34;related-articles&#34;&gt;Related articles&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://lovefor.qom/posts/2025/05/2025-05-24-239/&#34;&gt;2025-05-24-239&lt;/a&gt;&#xA;&lt;a href=&#34;http://lovefor.qom/posts/2025/06/2025-06-29-1184/&#34;&gt;2025-06-29-1184&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>2025-06-14-866</title>
+      <link>http://lovefor.qom/posts/2025/06/2025-06-14-866/</link>
+      <pubDate>Sat, 14 Jun 2025 00:04:07 +0000</pubDate><author>example@mail.qom (Deep thought Community)</author>
+      <guid>http://lovefor.qom/posts/2025/06/2025-06-14-866/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;hash SHA-256 of each file&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;p&gt;ef039682586b94b73c45213b02765a943f8b3e0068c46cd3dcc61fb63e35ff01  BabelFish-v1.0.2-MacOS-App.dmg&lt;/p&gt;&#xA;&lt;p&gt;90227fe60bdfe80674d9ed13b580fb99371a43a4a2c9c34cfffff8564595f8a8  BabelFish-v1.0.2-MacOS-Installer.dmg&lt;/p&gt;&#xA;&lt;p&gt;a76e2e765b487e03fe8f3a179ba26ea0f6d97bdf5e8083e0afa29724bb664dc8  BabelFish-v1.0.2-Windows.exe&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;*This is the &amp;rsquo;exact size&amp;rsquo; of the files; if you calculate the hash of any of these files on your computer, you should get the exact string as described here.&#xA;This is to validate that you are receiving the exact file without modifications along the way.&lt;/p&gt;&#xA;&lt;p&gt;To calculate it on mac:&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt; shasum -a 256 BabelFish-v1.0.2-MacOS-Installer.dmg```&#xA;&#xA;To calculate ir on windows&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;certutil -hashfile BabelFish-v1.0.2-Windows.exe SHA256```&lt;/p&gt;</description>
     </item>
     <item>
       <title>2025-06-11-707</title>
@@ -290,20 +304,6 @@
       <pubDate>Tue, 20 May 2025 16:13:46 +0000</pubDate><author>example@mail.qom (Deep thought Community)</author>
       <guid>http://lovefor.qom/posts/2025/05/2025-05-20-71/</guid>
       <description>&lt;p&gt;Yes, the builder who wants to implement a payment system just needs to connect his platform to a babelfish node, and through the babelfish API it will find the shortest path for that transaction, depending on whether the user has direct access to the network due to a local babelfish installation, or if the user does not have it, then the communication will be through the babelfish node on the builder&amp;rsquo;s server&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>2025-05-20-70</title>
-      <link>http://lovefor.qom/posts/2025/05/2025-05-20-70/</link>
-      <pubDate>Tue, 20 May 2025 16:04:51 +0000</pubDate><author>example@mail.qom (Deep thought Community)</author>
-      <guid>http://lovefor.qom/posts/2025/05/2025-05-20-70/</guid>
-      <description>&lt;p&gt;Regarding the minimum number of nodes for a test environment.&lt;/p&gt;&#xA;&lt;p&gt;That&amp;rsquo;s a good question, and it&amp;rsquo;s good to consider the cases in which a test environment would be necessary.&lt;/p&gt;&#xA;&lt;p&gt;The main objective and flow of Babelfish at the user level is to provide the user with the ability to communicate directly with the blockchain from their device, avoiding the need to rely on a single point of failure, such as the remote server of the service that provides the data.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>2025-05-19-30</title>
-      <link>http://lovefor.qom/posts/2025/05/2025-05-19-30/</link>
-      <pubDate>Mon, 19 May 2025 19:01:48 +0000</pubDate><author>example@mail.qom (Deep thought Community)</author>
-      <guid>http://lovefor.qom/posts/2025/05/2025-05-19-30/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;The BabelFish Protocol&lt;/strong&gt;  is a universal protocol that connects devices to blockchains and interlinks blockchain ecosystems through P2P communication.&lt;/p&gt;&#xA;&lt;p&gt;Local nodes, known as BabelFish Nodes, are installed on users’ devices and form the backbone of this decentralized architecture.&lt;/p&gt;&#xA;&lt;p&gt;These nodes expand and strengthen the blockchain’s network by maintaining data and synchronizing resources, while also interlacing with other blockchains to create a supermesh of decentralized networks.&lt;/p&gt;&#xA;&lt;p&gt;Operating without centralized servers or traditional IPs, the protocol enables a resilient and scalable cyberspace.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
