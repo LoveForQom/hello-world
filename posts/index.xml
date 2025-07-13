@@ -11,13 +11,12 @@
         <atom:link href="http://lovefor.qom/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
-            <title>GitHub Guide</title>
-            <link>http://lovefor.qom/posts/2025/07/github-guide/</link>
+            <title>GitHub Guide For Beginners (With GitHub SSH Setup)</title>
+            <link>http://lovefor.qom/posts/2025/07/github-guide-for-beginners-with-github-ssh-setup/</link>
             <pubDate>Sat, 12 Jul 2025 00:00:00 +0000</pubDate>
             <author>example@mail.qom (Deep thought Community)</author>
-            <guid>http://lovefor.qom/posts/2025/07/github-guide/</guid>
-            <description>&lt;h1 id=&#34;-beginners-guide-forking-a-repository-and-cloning-it-to-your-desktop-with-github-ssh-setup&#34;&gt;🌟 Beginner’s Guide: Forking a Repository and Cloning It to Your Desktop (With GitHub SSH Setup)&lt;/h1&gt;
-&lt;p&gt;This guide will walk you through:&lt;/p&gt;
+            <guid>http://lovefor.qom/posts/2025/07/github-guide-for-beginners-with-github-ssh-setup/</guid>
+            <description>&lt;p&gt;This guide will walk you through:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;Creating a GitHub account&lt;/p&gt;
@@ -48,9 +47,26 @@
 &lt;p&gt;Enter the required info:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Username&lt;/strong&gt;&lt;/p&gt;</description>
-            <content type="html"><![CDATA[<h1 id="-beginners-guide-forking-a-repository-and-cloning-it-to-your-desktop-with-github-ssh-setup">🌟 Beginner’s Guide: Forking a Repository and Cloning It to Your Desktop (With GitHub SSH Setup)</h1>
-<p>This guide will walk you through:</p>
+&lt;p&gt;&lt;strong&gt;Username&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Email address&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Password&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Confirm your email via the link sent to you&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-step-2-make-your-email-private-on-github&#34;&gt;🔒 Step 2: Make Your Email Private on GitHub&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Click your profile picture → &lt;strong&gt;Settings&lt;/strong&gt;&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<p>This guide will walk you through:</p>
 <ol>
 <li>
 <p>Creating a GitHub account</p>
@@ -234,18 +250,18 @@
 <blockquote>
 <p>QuanGaviota</p></blockquote>
 <h3 id="related-articles">Related articles</h3>
-<p>[[2025-06-11-699]]
-[[2025-05-19-30]]
-[[2025-05-20-90]]
-[[2025-06-11-694]]
-[[2025-06-11-707]]
-[[2025-06-05-586]]
-[[2025-05-20-70]]
-[[2025-05-25-377]]
-[[2025-05-29-538]]
-[[2025-05-23-138]]
-[[2025-06-19-988]]
-[[2025-05-24-239]]</p>
+<p><a href="/posts/2025/06/2025-06-11-699/">2025-06-11-699</a>
+<a href="/posts/2025/05/2025-05-19-30/">2025-05-19-30</a>
+<a href="/posts/2025/05/2025-05-20-90/">2025-05-20-90</a>
+<a href="/posts/2025/06/2025-06-11-694/">2025-06-11-694</a>
+<a href="/posts/2025/06/2025-06-11-707/">2025-06-11-707</a>
+<a href="/posts/2025/06/2025-06-05-586/">2025-06-05-586</a>
+<a href="/posts/2025/05/2025-05-20-70/">2025-05-20-70</a>
+<a href="/posts/2025/05/2025-05-25-377/">2025-05-25-377</a>
+<a href="/posts/2025/05/2025-05-29-538/">2025-05-29-538</a>
+<a href="/posts/2025/05/2025-05-23-138/">2025-05-23-138</a>
+<a href="/posts/2025/06/2025-06-19-988/">2025-06-19-988</a>
+<a href="/posts/2025/05/2025-05-24-239/">2025-05-24-239</a></p>
 ]]></content>
         </item>
         
@@ -259,12 +275,12 @@
 &lt;blockquote&gt;
 &lt;p&gt;QuanGaviota&lt;/p&gt;&lt;/blockquote&gt;
 &lt;h3 id=&#34;related-articles&#34;&gt;Related articles&lt;/h3&gt;
-&lt;p&gt;[[2025-06-11-703]]&lt;/p&gt;</description>
+&lt;p&gt;&lt;a href=&#34;http://lovefor.qom/posts/2025/06/2025-06-11-703/&#34;&gt;2025-06-11-703&lt;/a&gt;&lt;/p&gt;</description>
             <content type="html"><![CDATA[<p>Not only will the cost be low, but the rewards given to participants who keep the chain running will not be paid directly by users, but rather through a monetary distribution system that will incentivize participation.</p>
 <blockquote>
 <p>QuanGaviota</p></blockquote>
 <h3 id="related-articles">Related articles</h3>
-<p>[[2025-06-11-703]]</p>
+<p><a href="/posts/2025/06/2025-06-11-703/">2025-06-11-703</a></p>
 ]]></content>
         </item>
         
