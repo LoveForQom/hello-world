@@ -7,8 +7,266 @@
         <language>en</language>
         <managingEditor>example@mail.qom (Deep thought Community)</managingEditor>
         <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-        <lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Sat, 12 Jul 2025 00:00:00 +0000</lastBuildDate>
         <atom:link href="http://lovefor.qom/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>GitHub Guide</title>
+            <link>http://lovefor.qom/posts/2025/07/github-guide/</link>
+            <pubDate>Sat, 12 Jul 2025 00:00:00 +0000</pubDate>
+            <author>example@mail.qom (Deep thought Community)</author>
+            <guid>http://lovefor.qom/posts/2025/07/github-guide/</guid>
+            <description>&lt;h1 id=&#34;-beginners-guide-forking-a-repository-and-cloning-it-to-your-desktop-with-github-ssh-setup&#34;&gt;🌟 Beginner’s Guide: Forking a Repository and Cloning It to Your Desktop (With GitHub SSH Setup)&lt;/h1&gt;
+&lt;p&gt;This guide will walk you through:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Creating a GitHub account&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Hiding your email&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Creating an SSH key and connecting it to GitHub&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Forking someone else&amp;rsquo;s repository&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Cloning it to your &lt;code&gt;Desktop&lt;/code&gt; folder on your local machine&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-step-1-create-a-github-account&#34;&gt;📝 Step 1: Create a GitHub Account&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Go to &lt;a href=&#34;https://github.com&#34;&gt;https://github.com&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Click on &lt;strong&gt;Sign up&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Enter the required info:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Username&lt;/strong&gt;&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<h1 id="-beginners-guide-forking-a-repository-and-cloning-it-to-your-desktop-with-github-ssh-setup">🌟 Beginner’s Guide: Forking a Repository and Cloning It to Your Desktop (With GitHub SSH Setup)</h1>
+<p>This guide will walk you through:</p>
+<ol>
+<li>
+<p>Creating a GitHub account</p>
+</li>
+<li>
+<p>Hiding your email</p>
+</li>
+<li>
+<p>Creating an SSH key and connecting it to GitHub</p>
+</li>
+<li>
+<p>Forking someone else&rsquo;s repository</p>
+</li>
+<li>
+<p>Cloning it to your <code>Desktop</code> folder on your local machine</p>
+</li>
+</ol>
+<hr>
+<h2 id="-step-1-create-a-github-account">📝 Step 1: Create a GitHub Account</h2>
+<ol>
+<li>
+<p>Go to <a href="https://github.com">https://github.com</a></p>
+</li>
+<li>
+<p>Click on <strong>Sign up</strong></p>
+</li>
+<li>
+<p>Enter the required info:</p>
+<ul>
+<li>
+<p><strong>Username</strong></p>
+</li>
+<li>
+<p><strong>Email address</strong></p>
+</li>
+<li>
+<p><strong>Password</strong></p>
+</li>
+</ul>
+</li>
+<li>
+<p>Confirm your email via the link sent to you</p>
+</li>
+</ol>
+<hr>
+<h2 id="-step-2-make-your-email-private-on-github">🔒 Step 2: Make Your Email Private on GitHub</h2>
+<ol>
+<li>
+<p>Click your profile picture → <strong>Settings</strong></p>
+</li>
+<li>
+<p>Go to <strong>Emails</strong> in the sidebar</p>
+</li>
+<li>
+<p>Check these options:</p>
+<ul>
+<li>
+<p>✅ <strong>Keep my email address private</strong></p>
+</li>
+<li>
+<p>✅ <strong>Block command line pushes that expose my email</strong></p>
+</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h2 id="-step-3-install-git-if-not-already-installed">💻 Step 3: Install Git (if not already installed)</h2>
+<ul>
+<li><strong>macOS</strong>: Open Terminal and run:</li>
+</ul>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>git --version
+</span></span></code></pre></div><ul>
+<li>
+<p>If not installed, you’ll be prompted to install Git.</p>
+</li>
+<li>
+<p><strong>Windows</strong>: Download and install Git from <a href="https://git-scm.com">https://git-scm.com</a></p>
+</li>
+</ul>
+<hr>
+<h2 id="-step-4-generate-ssh-key-and-register-with-github">🔐 Step 4: Generate SSH Key and Register with GitHub</h2>
+<h3 id="-open-terminal-or-git-bash-and-run">① Open Terminal or Git Bash and run:</h3>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>ssh-keygen -t ed25519 -C <span style="color:#e6db74">&#34;your_email@example.com&#34;</span>
+</span></span></code></pre></div><ul>
+<li>
+<p>Replace <code>your_email@example.com</code> with the email you used for GitHub</p>
+</li>
+<li>
+<p>Press Enter to accept default file location</p>
+</li>
+<li>
+<p>You can press Enter to skip passphrase (optional)</p>
+</li>
+</ul>
+<h3 id="-view-and-copy-the-public-key">② View and copy the public key:</h3>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>cat ~/.ssh/id_ed25519.pub
+</span></span></code></pre></div><ul>
+<li>Copy the full output.</li>
+</ul>
+<h3 id="-add-ssh-key-to-github">③ Add SSH key to GitHub:</h3>
+<ol>
+<li>
+<p>Go to GitHub → <strong>Settings</strong> → <strong>SSH and GPG keys</strong></p>
+</li>
+<li>
+<p>Click <strong>New SSH key</strong></p>
+</li>
+<li>
+<p>Title: e.g. “My Laptop”</p>
+</li>
+<li>
+<p>Paste your copied key</p>
+</li>
+<li>
+<p>Click <strong>Add SSH key</strong></p>
+</li>
+</ol>
+<hr>
+<h2 id="-step-5-configure-your-git-user-info">⚙️ Step 5: Configure Your Git User Info</h2>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>git config --global user.name <span style="color:#e6db74">&#34;Your GitHub Username&#34;</span> 
+</span></span><span style="display:flex;"><span>git config --global user.email <span style="color:#e6db74">&#34;your_email@example.com&#34;</span>
+</span></span></code></pre></div><blockquote>
+<p>Tip: If your email is private, use your <code>username@users.noreply.github.com</code> GitHub-provided email</p></blockquote>
+<hr>
+<h2 id="-step-6-fork-a-repository-on-github">🔁 Step 6: Fork a Repository on GitHub</h2>
+<ol>
+<li>
+<p>Find the repository you want to fork</p>
+</li>
+<li>
+<p>Click the <strong>Fork</strong> button (top-right)</p>
+</li>
+<li>
+<p>It will create a copy under your GitHub account</p>
+</li>
+</ol>
+<hr>
+<h2 id="-step-7-clone-your-fork-to-your-desktop-using-ssh">📥 Step 7: Clone Your Fork to Your Desktop (Using SSH)</h2>
+<h3 id="-go-to-your-forked-repository-on-github">① Go to your forked repository on GitHub</h3>
+<h3 id="-click-the-code-button--choose-ssh--copy-the-ssh-url">② Click the <strong>Code</strong> button → Choose <strong>SSH</strong> → Copy the SSH URL</h3>
+<p>Example: <code>git@github.com:yourusername/reponame.git</code></p>
+<h3 id="-open-terminal-and-run">③ Open Terminal and run:</h3>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>cd ~/Desktop
+</span></span><span style="display:flex;"><span>git clone git@github.com:yourusername/reponame.git<span style="color:#e6db74">`</span>
+</span></span></code></pre></div><hr>
+<h2 id="-done">✅ Done!</h2>
+<p>You now have:</p>
+<ul>
+<li>
+<p>GitHub account ✔️</p>
+</li>
+<li>
+<p>Email privacy set ✔️</p>
+</li>
+<li>
+<p>SSH key authentication set up ✔️</p>
+</li>
+<li>
+<p>A fork of the repo under your account ✔️</p>
+</li>
+<li>
+<p>The repo cloned to your Desktop ✔️</p>
+</li>
+</ul>
+]]></content>
+        </item>
+        
+        <item>
+            <title>2025-07-11-1311</title>
+            <link>http://lovefor.qom/posts/2025/07/2025-07-11-1311/</link>
+            <pubDate>Fri, 11 Jul 2025 20:18:29 +0000</pubDate>
+            <author>example@mail.qom (Deep thought Community)</author>
+            <guid>http://lovefor.qom/posts/2025/07/2025-07-11-1311/</guid>
+            <description>&lt;p&gt;Babelfish is revolutionizing the internet with a new, decentralized, free, and transparent layer.&lt;/p&gt;
+&lt;p&gt;Through our interconnected nodes, we create an autonomous network that does not depend on external telecommunications providers or centralized DNS. Each participant manages their own resources and data, connecting to blockchain nodes that we collectively manage, forming the largest and most free interconnected network ever seen, without corporate servers.&lt;/p&gt;
+&lt;p&gt;At Babelfish, privacy and freedom are our core values. By design, we do not record your identity, your movements, or any of your actions within our network, guaranteeing a space where you can create, browse, and express yourself without restrictions or monitoring.&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<p>Babelfish is revolutionizing the internet with a new, decentralized, free, and transparent layer.</p>
+<p>Through our interconnected nodes, we create an autonomous network that does not depend on external telecommunications providers or centralized DNS. Each participant manages their own resources and data, connecting to blockchain nodes that we collectively manage, forming the largest and most free interconnected network ever seen, without corporate servers.</p>
+<p>At Babelfish, privacy and freedom are our core values. By design, we do not record your identity, your movements, or any of your actions within our network, guaranteeing a space where you can create, browse, and express yourself without restrictions or monitoring.</p>
+<p>We do not offer an &lsquo;invisibility cloak,&rsquo; but rather a transparent and autonomous environment where you are in control. What you do outside our network, such as the sites you visit, depends on your own decisions and precautions.</p>
+<blockquote>
+<p>QuanGaviota</p></blockquote>
+<h3 id="related-articles">Related articles</h3>
+<p>[[2025-06-11-699]]
+[[2025-05-19-30]]
+[[2025-05-20-90]]
+[[2025-06-11-694]]
+[[2025-06-11-707]]
+[[2025-06-05-586]]
+[[2025-05-20-70]]
+[[2025-05-25-377]]
+[[2025-05-29-538]]
+[[2025-05-23-138]]
+[[2025-06-19-988]]
+[[2025-05-24-239]]</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>2025-07-07-1235</title>
+            <link>http://lovefor.qom/posts/2025/07/2025-07-07-1235/</link>
+            <pubDate>Mon, 07 Jul 2025 17:44:14 +0000</pubDate>
+            <author>example@mail.qom (Deep thought Community)</author>
+            <guid>http://lovefor.qom/posts/2025/07/2025-07-07-1235/</guid>
+            <description>&lt;p&gt;Not only will the cost be low, but the rewards given to participants who keep the chain running will not be paid directly by users, but rather through a monetary distribution system that will incentivize participation.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;QuanGaviota&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h3 id=&#34;related-articles&#34;&gt;Related articles&lt;/h3&gt;
+&lt;p&gt;[[2025-06-11-703]]&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<p>Not only will the cost be low, but the rewards given to participants who keep the chain running will not be paid directly by users, but rather through a monetary distribution system that will incentivize participation.</p>
+<blockquote>
+<p>QuanGaviota</p></blockquote>
+<h3 id="related-articles">Related articles</h3>
+<p>[[2025-06-11-703]]</p>
+]]></content>
+        </item>
         
         <item>
             <title>How to Use CLI</title>
