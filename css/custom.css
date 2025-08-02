@@ -1,0 +1,106 @@
+/* === common alert style === */
+blockquote.alert {
+  all: unset; 
+  display: block;
+  padding: 1em;
+  margin: 1em 0;
+  border-left: 5px solid;
+  border-radius: 5px;
+}
+
+.alert-title {
+  font-weight: bold;
+  margin-bottom: 0.5em;
+}
+
+.alert-content {
+  line-height: 1.6;
+}
+
+/* === light mode（default） === */
+blockquote.alert.note {
+  background: #e7f5ff;
+  border-color: #1c7ed6;
+}
+
+blockquote.alert.tip {
+  background: #ebfbee;
+  border-color: #37b24d;
+}
+
+blockquote.alert.important {
+  background: #fff3bf;
+  border-color: #f59f00;
+}
+
+blockquote.alert.warning {
+  background: #fff5f5;
+  border-color: #fa5252;
+}
+
+blockquote.alert.caution {
+  background: #fff0f6;
+  border-color: #d6336c;
+}
+
+/* === dark mode (browser) === */
+@media (prefers-color-scheme: dark) {
+  blockquote.alert.note {
+    background: #1f2f44;
+    border-color: #4dabf7;
+  }
+
+  blockquote.alert.tip {
+    background: #1f3f2f;
+    border-color: #40c057;
+  }
+
+  blockquote.alert.important {
+    background: #4d3f1f;
+    border-color: #fab005;
+  }
+
+  blockquote.alert.warning {
+    background: #4f1f1f;
+    border-color: #fa5252;
+  }
+
+  blockquote.alert.caution {
+    background: #4f1f2f;
+    border-color: #f783ac;
+  }
+
+  .alert-title {
+    color: #fff;
+  }
+}
+
+/* === dark mode（data-theme ）=== */
+[data-theme=dark] blockquote.alert.note {
+  background: #1f2f44;
+  border-color: #4dabf7;
+}
+
+[data-theme=dark] blockquote.alert.tip {
+  background: #1f3f2f;
+  border-color: #40c057;
+}
+
+[data-theme=dark] blockquote.alert.important {
+  background: #4d3f1f;
+  border-color: #fab005;
+}
+
+[data-theme=dark] blockquote.alert.warning {
+  background: #4f1f1f;
+  border-color: #fa5252;
+}
+
+[data-theme=dark] blockquote.alert.caution {
+  background: #4f1f2f;
+  border-color: #f783ac;
+}
+
+[data-theme=dark] .alert-title {
+  color: #fff;
+}
